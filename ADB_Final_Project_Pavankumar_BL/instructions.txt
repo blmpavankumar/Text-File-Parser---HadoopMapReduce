@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------------
+Author Name : Pavankumar B L
+Version : 1.0
+Advanced Database Systems (91.673) Fall 2015 Project Setup Instructions
+----------------------------------------------------------------------------------------------------------------------------------------
+1. Project has eight source code files
+	1. ProjectDriver.java
+	2. ProjectDriver4.java
+	3. ProjectMapper.java
+	4. ProjectMapper2.java
+	5. ProjectMapper3.java
+	6. ProjectReducer.java
+	7. ProjectReducer2.java
+	8. ProjectReducer3.java
+	
+2. Make sure all these are imported as whole package in to project envirornment.
+3. Place (copy/paste) the folder named 'project' in any of the directory.
+4. Make sure to edit path of 'project' folder in ProjectDriver.class file which is taken as argument.
+	(You can make these changes under 'Run Configuration' of ProjectDriver.class)
+	(First argument must be ../project/input and second argument must be ../project/output ; both arguments must be seperated by space)
+5. Dont make any changes to folder structure of 'project' since it is used as an argument for source code.
+6. All input files are placed in the directory - "../project/input"
+7. All output files are generared in the directory - "../project/output"
+
+-----------------------------------------------------------------------------------------------------------------------------------------

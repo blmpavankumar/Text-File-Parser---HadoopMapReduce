@@ -1,0 +1,60 @@
+Country: Aruba; Language: English
+Country: Anguilla; Language: English
+Country: Netherlands Antilles; Language: English
+Country: American Samoa; Language: English
+Country: Antigua and Barbuda; Language: English
+Country: Australia; Language: English
+Country: Bahrain; Language: English
+Country: Belize; Language: English
+Country: Bermuda; Language: English
+Country: Barbados; Language: English
+Country: Brunei; Language: English
+Country: Canada; Language: English
+Country: Cocos (Keeling) Islands; Language: English
+Country: Cook Islands; Language: English
+Country: Christmas Island; Language: English
+Country: Cayman Islands; Language: English
+Country: Denmark; Language: English
+Country: Falkland Islands; Language: English
+Country: United Kingdom; Language: English
+Country: Gibraltar; Language: English
+Country: Guam; Language: English
+Country: Hong Kong; Language: English
+Country: Ireland; Language: English
+Country: Iceland; Language: English
+Country: Japan; Language: English
+Country: Saint Kitts and Nevis; Language: English
+Country: Kuwait; Language: English
+Country: Saint Lucia; Language: English
+Country: Lesotho; Language: English
+Country: Macao; Language: English
+Country: Monaco; Language: English
+Country: Maldives; Language: English
+Country: Marshall Islands; Language: English
+Country: Malta; Language: English
+Country: Northern Mariana Islands; Language: English
+Country: Montserrat; Language: English
+Country: Malaysia; Language: English
+Country: Norfolk Island; Language: English
+Country: Niue; Language: English
+Country: Norway; Language: English
+Country: Nauru; Language: English
+Country: New Zealand; Language: English
+Country: Palau; Language: English
+Country: Puerto Rico; Language: English
+Country: Saint Helena; Language: English
+Country: Seychelles; Language: English
+Country: Turks and Caicos Islands; Language: English
+Country: Tokelau; Language: English
+Country: Tonga; Language: English
+Country: Trinidad and Tobago; Language: English
+Country: Tuvalu; Language: English
+Country: United States Minor Outlying Islands; Language: English
+Country: United States; Language: English
+Country: Saint Vincent and the Grenadines; Language: English
+Country: Virgin Islands\; Language: English
+Country: Virgin Islands\; Language: English
+Country: Vanuatu; Language: English
+Country: Samoa; Language: English
+Country: South Africa; Language: English
+Country: Zimbabwe; Language: English

@@ -1,0 +1,2 @@
+Output of query 1
+City: Rotterdam; Population: 593321

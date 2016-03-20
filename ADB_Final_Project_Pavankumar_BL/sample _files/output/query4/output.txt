@@ -1,0 +1,1370 @@
+District : ARMM; Number of Cities : 	2
+District : Abhasia [Aphazeti]; Number of Cities : 	2
+District : Abidjan; Number of Cities : 	1
+District : Abruzzit; Number of Cities : 	1
+District : Abu Dhabi; Number of Cities : 	5
+District : Aceh; Number of Cities : 	3
+District : Acre; Number of Cities : 	2
+District : Adana; Number of Cities : 	3
+District : Addis Abeba; Number of Cities : 	3
+District : Aden; Number of Cities : 	1
+District : Adiyaman; Number of Cities : 	1
+District : Adygea; Number of Cities : 	1
+District : Adzaria [At�ara]; Number of Cities : 	2
+District : Afyon; Number of Cities : 	1
+District : Aguascalientes; Number of Cities : 	1
+District : Ahal; Number of Cities : 	1
+District : Aichi; Number of Cities : 	15
+District : Aimei; Number of Cities : 	1
+District : Ajman; Number of Cities : 	1
+District : Akershus; Number of Cities : 	1
+District : Akita; Number of Cities : 	1
+District : Aksaray; Number of Cities : 	1
+District : Alabama; Number of Cities : 	4
+District : Alagoas; Number of Cities : 	2
+District : Alaska; Number of Cities : 	1
+District : Alberta; Number of Cities : 	2
+District : Aleksandria; Number of Cities : 	1
+District : Aleppo; Number of Cities : 	1
+District : Alger; Number of Cities : 	1
+District : Almaty; Number of Cities : 	1
+District : Almaty Qalasy; Number of Cities : 	2
+District : Alsace; Number of Cities : 	2
+District : Altai; Number of Cities : 	3
+District : Alto Paran�; Number of Cities : 	4
+District : Amap�; Number of Cities : 	1
+District : Amazonas; Number of Cities : 	1
+District : Amhara; Number of Cities : 	4
+District : Amman; Number of Cities : 	3
+District : Amur; Number of Cities : 	1
+District : An Giang; Number of Cities : 	3
+District : Anambra & Enugu & Eb; Number of Cities : 	15
+District : Ancash; Number of Cities : 	1
+District : Andalusia; Number of Cities : 	16
+District : Andhra Pradesh; Number of Cities : 	72
+District : Andijon; Number of Cities : 	1
+District : Andorra la Vella; Number of Cities : 	5
+District : Anhalt Sachsen; Number of Cities : 	4
+District : Anhui; Number of Cities : 	16
+District : Ankara; Number of Cities : 	1
+District : Annaba; Number of Cities : 	1
+District : Antalya; Number of Cities : 	2
+District : Antananarivo; Number of Cities : 	2
+District : Antioquia; Number of Cities : 	4
+District : Antofagasta; Number of Cities : 	2
+District : Antwerpen; Number of Cities : 	1
+District : Anzo�tegui; Number of Cities : 	7
+District : Aomori; Number of Cities : 	3
+District : Apulia; Number of Cities : 	7
+District : Apure; Number of Cities : 	4
+District : Aqt�be; Number of Cities : 	1
+District : Aqua Grande; Number of Cities : 	3
+District : Aquitaine; Number of Cities : 	1
+District : Arad; Number of Cities : 	1
+District : Aragonia; Number of Cities : 	1
+District : Aragua; Number of Cities : 	4
+District : Ardebil; Number of Cities : 	1
+District : Arecibo; Number of Cities : 	1
+District : Arequipa; Number of Cities : 	1
+District : Arges; Number of Cities : 	1
+District : Ariana; Number of Cities : 	2
+District : Arizona; Number of Cities : 	9
+District : Arkangeli; Number of Cities : 	2
+District : Arkansas; Number of Cities : 	2
+District : Arusha; Number of Cities : 	1
+District : Ashanti; Number of Cities : 	1
+District : Asir; Number of Cities : 	3
+District : Assam; Number of Cities : 	5
+District : Assuan; Number of Cities : 	1
+District : Astana; Number of Cities : 	1
+District : Astrahan; Number of Cities : 	1
+District : Asturia; Number of Cities : 	2
+District : Asunci�n; Number of Cities : 	1
+District : Asyut; Number of Cities : 	1
+District : Atacama; Number of Cities : 	1
+District : Atacora; Number of Cities : 	1
+District : Atlantique; Number of Cities : 	1
+District : Atl�ntico; Number of Cities : 	2
+District : Atl�ntida; Number of Cities : 	2
+District : Attika; Number of Cities : 	4
+District : Atyrau; Number of Cities : 	1
+District : Auckland; Number of Cities : 	5
+District : Auvergne; Number of Cities : 	1
+District : Ax; Number of Cities : 	2
+District : Ayacucho; Number of Cities : 	1
+District : Aydin; Number of Cities : 	2
+District : Azuay; Number of Cities : 	1
+District : Ba Ria-Vung Tau; Number of Cities : 	4
+District : Babil; Number of Cities : 	1
+District : Bac Thai; Number of Cities : 	3
+District : Bacau; Number of Cities : 	1
+District : Baden-W�rttemberg; Number of Cities : 	14
+District : Baghdad; Number of Cities : 	1
+District : Bahia; Number of Cities : 	24
+District : Bahr al-Jabal; Number of Cities : 	2
+District : Baijeri; Number of Cities : 	9
+District : Baja California; Number of Cities : 	6
+District : Baja California Sur; Number of Cities : 	8
+District : Baki; Number of Cities : 	1
+District : Balears; Number of Cities : 	3
+District : Bali; Number of Cities : 	1
+District : Balikesir; Number of Cities : 	2
+District : Balkh; Number of Cities : 	1
+District : Balti; Number of Cities : 	1
+District : Baluchistan; Number of Cities : 	2
+District : Bamako; Number of Cities : 	1
+District : Banaadir; Number of Cities : 	1
+District : Bandundu; Number of Cities : 	1
+District : Bangkok; Number of Cities : 	1
+District : Bangui; Number of Cities : 	1
+District : Bani Suwayf; Number of Cities : 	3
+District : Banjul; Number of Cities : 	1
+District : Baranya; Number of Cities : 	1
+District : Barinas; Number of Cities : 	1
+District : Barisal; Number of Cities : 	1
+District : Bas-Za�re; Number of Cities : 	2
+District : Basel-Stadt; Number of Cities : 	1
+District : Baskimaa; Number of Cities : 	5
+District : Basra; Number of Cities : 	1
+District : Basse-Normandie; Number of Cities : 	1
+District : Basse-Terre; Number of Cities : 	1
+District : Batman; Number of Cities : 	1
+District : Batna; Number of Cities : 	1
+District : Battambang; Number of Cities : 	1
+District : Bauchi & Gombe; Number of Cities : 	10
+District : Bayam�n; Number of Cities : 	1
+District : Ba�kortostan; Number of Cities : 	5
+District : Beirut; Number of Cities : 	1
+District : Belgorod; Number of Cities : 	3
+District : Belize City; Number of Cities : 	3
+District : Bender (T�ghina); Number of Cities : 	3
+District : Bengasi; Number of Cities : 	1
+District : Bengkulu; Number of Cities : 	1
+District : Benguela; Number of Cities : 	2
+District : Benue; Number of Cities : 	1
+District : Berliini; Number of Cities : 	1
+District : Bern; Number of Cities : 	1
+District : Bicol; Number of Cities : 	7
+District : Bihar; Number of Cities : 	16
+District : Bihor; Number of Cities : 	1
+District : Binh Dinh; Number of Cities : 	3
+District : Binh Thuan; Number of Cities : 	3
+District : Bioko; Number of Cities : 	1
+District : Biserta; Number of Cities : 	1
+District : Bishkek shaary; Number of Cities : 	2
+District : Biskra; Number of Cities : 	1
+District : Bissau; Number of Cities : 	1
+District : Blantyre; Number of Cities : 	1
+District : Blida; Number of Cities : 	2
+District : Bol�var; Number of Cities : 	5
+District : Borgou; Number of Cities : 	1
+District : Borno & Yobe; Number of Cities : 	3
+District : Borsod-Aba�j-Zempl�n; Number of Cities : 	1
+District : Botosani; Number of Cities : 	1
+District : Bouak�; Number of Cities : 	1
+District : Boulkiemd�; Number of Cities : 	1
+District : Bourgogne; Number of Cities : 	1
+District : Boyac�; Number of Cities : 	2
+District : Braga; Number of Cities : 	1
+District : Braila; Number of Cities : 	1
+District : Brandenburg; Number of Cities : 	2
+District : Brasov; Number of Cities : 	1
+District : Bratislava; Number of Cities : 	1
+District : Brazzaville; Number of Cities : 	1
+District : Bremen; Number of Cities : 	2
+District : Brest; Number of Cities : 	3
+District : Bretagne; Number of Cities : 	2
+District : British Colombia; Number of Cities : 	18
+District : Brjansk; Number of Cities : 	1
+District : Brunei and Muara; Number of Cities : 	5
+District : Bryssel; Number of Cities : 	3
+District : Budapest; Number of Cities : 	1
+District : Buenos Aires; Number of Cities : 	87
+District : Buhoro; Number of Cities : 	1
+District : Bujumbura; Number of Cities : 	1
+District : Bukarest; Number of Cities : 	1
+District : Bulawayo; Number of Cities : 	1
+District : Burgas; Number of Cities : 	2
+District : Burjatia; Number of Cities : 	1
+District : Bursa; Number of Cities : 	2
+District : Bushehr; Number of Cities : 	1
+District : Buzau; Number of Cities : 	1
+District : B�char; Number of Cities : 	1
+District : B�cs-Kiskun; Number of Cities : 	1
+District : B�ja�a; Number of Cities : 	1
+District : B�ob�o; Number of Cities : 	11
+District : CAR; Number of Cities : 	1
+District : Cagayan Valley; Number of Cities : 	8
+District : Caguas; Number of Cities : 	1
+District : Cajamarca; Number of Cities : 	1
+District : Calabria; Number of Cities : 	4
+District : Caldas; Number of Cities : 	1
+District : California; Number of Cities : 	97
+District : Callao; Number of Cities : 	2
+District : Camag�ey; Number of Cities : 	1
+District : Campania; Number of Cities : 	8
+District : Campeche; Number of Cities : 	2
+District : Can Tho; Number of Cities : 	3
+District : Canary Islands; Number of Cities : 	17
+District : Cantabria; Number of Cities : 	1
+District : Canterbury; Number of Cities : 	1
+District : Cap-Vert; Number of Cities : 	3
+District : Capital Region; Number of Cities : 	2
+District : Caquet�; Number of Cities : 	1
+District : Carabobo; Number of Cities : 	4
+District : Caraga; Number of Cities : 	4
+District : Caras-Severin; Number of Cities : 	1
+District : Carolina; Number of Cities : 	1
+District : Caroni; Number of Cities : 	1
+District : Casablanca; Number of Cities : 	2
+District : Castilla and Le�n; Number of Cities : 	12
+District : Castries; Number of Cities : 	1
+District : Catamarca; Number of Cities : 	6
+District : Cauca; Number of Cities : 	1
+District : Cayenne; Number of Cities : 	1
+District : Cayo; Number of Cities : 	1
+District : Cear�; Number of Cities : 	8
+District : Central; Number of Cities : 	15
+District : Central Java; Number of Cities : 	22
+District : Central Luzon; Number of Cities : 	51
+District : Central Macedonia; Number of Cities : 	2
+District : Central Mindanao; Number of Cities : 	10
+District : Central Serbia; Number of Cities : 	6
+District : Central Visayas; Number of Cities : 	17
+District : Centre; Number of Cities : 	3
+District : Cesar; Number of Cities : 	1
+District : Chaco; Number of Cities : 	1
+District : Chagang; Number of Cities : 	1
+District : Chaharmahal va Bakht; Number of Cities : 	4
+District : Champagne-Ardenne; Number of Cities : 	2
+District : Chandigarh; Number of Cities : 	1
+District : Changhwa; Number of Cities : 	2
+District : Chaouia-Ouardigha; Number of Cities : 	2
+District : Chari-Baguirmi; Number of Cities : 	1
+District : Cheju; Number of Cities : 	1
+District : Chhatisgarh; Number of Cities : 	8
+District : Chiang Mai; Number of Cities : 	3
+District : Chiapas; Number of Cities : 	14
+District : Chiayi; Number of Cities : 	1
+District : Chiba; Number of Cities : 	19
+District : Chihuahua; Number of Cities : 	7
+District : Chimborazo; Number of Cities : 	1
+District : Chinandega; Number of Cities : 	1
+District : Chisinau; Number of Cities : 	1
+District : Chittagong; Number of Cities : 	3
+District : Chlef; Number of Cities : 	2
+District : Chollabuk; Number of Cities : 	6
+District : Chollanam; Number of Cities : 	5
+District : Chongqing; Number of Cities : 	1
+District : Chubut; Number of Cities : 	2
+District : Chungchongbuk; Number of Cities : 	3
+District : Chungchongnam; Number of Cities : 	6
+District : Chuquisaca; Number of Cities : 	1
+District : Chuuk; Number of Cities : 	1
+District : Ciego de �vila; Number of Cities : 	5
+District : Cienfuegos; Number of Cities : 	1
+District : Cizah; Number of Cities : 	1
+District : Cluj; Number of Cities : 	1
+District : Coahuila de Zaragoza; Number of Cities : 	19
+District : Coast; Number of Cities : 	1
+District : Cochabamba; Number of Cities : 	1
+District : Colima; Number of Cities : 	3
+District : Colorado; Number of Cities : 	11
+District : Conakry; Number of Cities : 	1
+District : Connecticut; Number of Cities : 	6
+District : Constanta; Number of Cities : 	1
+District : Constantine; Number of Cities : 	1
+District : Copperbelt; Number of Cities : 	5
+District : Coquimbo; Number of Cities : 	4
+District : Corrientes; Number of Cities : 	1
+District : Cort�s; Number of Cities : 	3
+District : Co�mbra; Number of Cities : 	1
+District : Crete; Number of Cities : 	1
+District : Cross River; Number of Cities : 	4
+District : Csongr�d; Number of Cities : 	1
+District : Cundinamarca; Number of Cities : 	2
+District : Cura�ao; Number of Cities : 	1
+District : Cusco; Number of Cities : 	1
+District : C�rdoba; Number of Cities : 	4
+District : Dac Lac; Number of Cities : 	4
+District : Dagestan; Number of Cities : 	2
+District : Dakhlet Nou�dhibou; Number of Cities : 	2
+District : Daloa; Number of Cities : 	1
+District : Damascus; Number of Cities : 	1
+District : Damaskos; Number of Cities : 	2
+District : Dar es Salaam; Number of Cities : 	5
+District : Darfur al-Janubiya; Number of Cities : 	2
+District : Darfur al-Shamaliya; Number of Cities : 	2
+District : Dashhowuz; Number of Cities : 	1
+District : Daugavpils; Number of Cities : 	1
+District : Dayr al-Zawr; Number of Cities : 	3
+District : Delhi; Number of Cities : 	5
+District : Denizli; Number of Cities : 	1
+District : Dhaka; Number of Cities : 	8
+District : DhiQar; Number of Cities : 	1
+District : Dili; Number of Cities : 	1
+District : Diourbel; Number of Cities : 	1
+District : Dire Dawa; Number of Cities : 	3
+District : District of Columbia; Number of Cities : 	3
+District : Distrito Central; Number of Cities : 	2
+District : Distrito Federal; Number of Cities : 	15
+District : Distrito Nacional; Number of Cities : 	5
+District : Diyala; Number of Cities : 	1
+District : Diyarbakir; Number of Cities : 	2
+District : Djibouti; Number of Cities : 	1
+District : Dnipropetrovsk; Number of Cities : 	6
+District : Dnjestria; Number of Cities : 	1
+District : Dodoma; Number of Cities : 	1
+District : Doha; Number of Cities : 	1
+District : Dolj; Number of Cities : 	1
+District : Dolnoslaskie; Number of Cities : 	5
+District : Donetsk; Number of Cities : 	8
+District : Dong Nai; Number of Cities : 	3
+District : Doukkala-Abda; Number of Cities : 	3
+District : Drenthe; Number of Cities : 	1
+District : Duarte; Number of Cities : 	4
+District : Dubai; Number of Cities : 	1
+District : Dunedin; Number of Cities : 	1
+District : Durango; Number of Cities : 	4
+District : D�mbovita; Number of Cities : 	1
+District : East Azerbaidzan; Number of Cities : 	6
+District : East Falkland; Number of Cities : 	2
+District : East Flanderi; Number of Cities : 	2
+District : East G�tanmaan l�n; Number of Cities : 	6
+District : East Java; Number of Cities : 	26
+District : East Kasai; Number of Cities : 	4
+District : East Kazakstan; Number of Cities : 	4
+District : Eastern; Number of Cities : 	3
+District : Eastern Cape; Number of Cities : 	10
+District : Eastern Visayas; Number of Cities : 	8
+District : Edirne; Number of Cities : 	1
+District : Edo & Delta; Number of Cities : 	10
+District : Ehime; Number of Cities : 	3
+District : El Oro; Number of Cities : 	2
+District : El-Aai�n; Number of Cities : 	1
+District : El�zig; Number of Cities : 	1
+District : Emilia-Romagna; Number of Cities : 	12
+District : England; Number of Cities : 	79
+District : Entre Rios; Number of Cities : 	4
+District : Equateur; Number of Cities : 	1
+District : Erzincan; Number of Cities : 	1
+District : Erzurum; Number of Cities : 	1
+District : Esfahan; Number of Cities : 	5
+District : Eskisehir; Number of Cities : 	1
+District : Esmeraldas; Number of Cities : 	1
+District : Esp�rito Santo; Number of Cities : 	17
+District : Estuaire; Number of Cities : 	1
+District : Extremadura; Number of Cities : 	1
+District : Extr�me-Nord; Number of Cities : 	1
+District : Fakaofo; Number of Cities : 	1
+District : Falc�n; Number of Cities : 	6
+District : Fargona; Number of Cities : 	3
+District : Fars; Number of Cities : 	4
+District : Federaatio; Number of Cities : 	2
+District : Federal Capital Dist; Number of Cities : 	3
+District : Fej�r; Number of Cities : 	1
+District : Fianarantsoa; Number of Cities : 	1
+District : Flevoland; Number of Cities : 	1
+District : Florida; Number of Cities : 	21
+District : Formosa; Number of Cities : 	1
+District : Fort-de-France; Number of Cities : 	1
+District : Franche-Comt�; Number of Cities : 	1
+District : Francistown; Number of Cities : 	1
+District : Frederiksberg; Number of Cities : 	1
+District : Free State; Number of Cities : 	6
+District : Friuli-Venezia Giuli; Number of Cities : 	4
+District : Fujian; Number of Cities : 	13
+District : Fukui; Number of Cities : 	1
+District : Fukuoka; Number of Cities : 	5
+District : Fukushima; Number of Cities : 	4
+District : Funafuti; Number of Cities : 	1
+District : Fyn; Number of Cities : 	1
+District : F�s-Boulemane; Number of Cities : 	1
+District : Gaborone; Number of Cities : 	1
+District : Gab�s; Number of Cities : 	1
+District : Galati; Number of Cities : 	1
+District : Galicia; Number of Cities : 	10
+District : Gansu; Number of Cities : 	7
+District : Gauteng; Number of Cities : 	22
+District : Gaza; Number of Cities : 	2
+District : Gaziantep; Number of Cities : 	1
+District : Gelderland; Number of Cities : 	4
+District : Geneve; Number of Cities : 	1
+District : Georgetown; Number of Cities : 	1
+District : Georgia; Number of Cities : 	8
+District : Gharb-Chrarda-B�ni H; Number of Cities : 	2
+District : Gharda�a; Number of Cities : 	1
+District : Gifu; Number of Cities : 	4
+District : Gilan; Number of Cities : 	3
+District : Giza; Number of Cities : 	6
+District : Goi�s; Number of Cities : 	12
+District : Golestan; Number of Cities : 	1
+District : Gomel; Number of Cities : 	2
+District : Gorj; Number of Cities : 	2
+District : Grad Sofija; Number of Cities : 	2
+District : Grad Zagreb; Number of Cities : 	2
+District : Grand Cayman; Number of Cities : 	3
+District : Grand Turk; Number of Cities : 	3
+District : Grande-Terre; Number of Cities : 	2
+District : Granma; Number of Cities : 	2
+District : Greater Accra; Number of Cities : 	4
+District : Grodno; Number of Cities : 	2
+District : Groningen; Number of Cities : 	1
+District : Guanajuato; Number of Cities : 	26
+District : Guangdong; Number of Cities : 	21
+District : Guangxi; Number of Cities : 	9
+District : Guant�namo; Number of Cities : 	1
+District : Guatemala; Number of Cities : 	6
+District : Guayas; Number of Cities : 	5
+District : Guaynabo; Number of Cities : 	1
+District : Guerrero; Number of Cities : 	19
+District : Guizhou; Number of Cities : 	6
+District : Gujarat; Number of Cities : 	23
+District : Gumma; Number of Cities : 	5
+District : Gu�rico; Number of Cities : 	5
+District : Gy�r-Moson-Sopron; Number of Cities : 	1
+District : G�nc�; Number of Cities : 	1
+District : G�vleborgs l�n; Number of Cities : 	2
+District : Ha Darom; Number of Cities : 	6
+District : Ha Merkaz; Number of Cities : 	11
+District : Habarovsk; Number of Cities : 	2
+District : Hadramawt; Number of Cities : 	1
+District : Haifa; Number of Cities : 	1
+District : Hail; Number of Cities : 	1
+District : Hainan; Number of Cities : 	2
+District : Hainaut; Number of Cities : 	2
+District : Haiphong; Number of Cities : 	1
+District : Hajd�-Bihar; Number of Cities : 	1
+District : Hakassia; Number of Cities : 	1
+District : Hama; Number of Cities : 	1
+District : Hamadan; Number of Cities : 	2
+District : Hamburg; Number of Cities : 	1
+District : Hamgyong N; Number of Cities : 	2
+District : Hamgyong P; Number of Cities : 	4
+District : Hamilton; Number of Cities : 	2
+District : Hanoi; Number of Cities : 	1
+District : Hanti-Mansia; Number of Cities : 	3
+District : Harare; Number of Cities : 	4
+District : Harjumaa; Number of Cities : 	1
+District : Harkova; Number of Cities : 	2
+District : Haryana; Number of Cities : 	16
+District : Haskovo; Number of Cities : 	2
+District : Hatay; Number of Cities : 	3
+District : Haute-Normandie; Number of Cities : 	2
+District : Haute-Za�re; Number of Cities : 	1
+District : Hawaii; Number of Cities : 	1
+District : Hawalli; Number of Cities : 	3
+District : Hebei; Number of Cities : 	12
+District : Hebron; Number of Cities : 	1
+District : Heilongjiang; Number of Cities : 	21
+District : Henan; Number of Cities : 	18
+District : Herat; Number of Cities : 	1
+District : Herson; Number of Cities : 	1
+District : Hessen; Number of Cities : 	9
+District : Hhohho; Number of Cities : 	1
+District : Hidalgo; Number of Cities : 	9
+District : Hims; Number of Cities : 	1
+District : Hiroshima; Number of Cities : 	5
+District : Hlavn� mesto Praha; Number of Cities : 	3
+District : Hmelnytskyi; Number of Cities : 	2
+District : Ho Chi Minh City; Number of Cities : 	7
+District : Hodeida; Number of Cities : 	1
+District : Hokkaido; Number of Cities : 	10
+District : Holgu�n; Number of Cities : 	1
+District : Home Island; Number of Cities : 	2
+District : Hongkong; Number of Cities : 	1
+District : Honiara; Number of Cities : 	1
+District : Horad Minsk; Number of Cities : 	2
+District : Hordaland; Number of Cities : 	1
+District : Hormozgan; Number of Cities : 	1
+District : Houet; Number of Cities : 	1
+District : Hsinchu; Number of Cities : 	1
+District : Hualien; Number of Cities : 	1
+District : Huambo; Number of Cities : 	1
+District : Huanuco; Number of Cities : 	1
+District : Hubei; Number of Cities : 	22
+District : Huila; Number of Cities : 	1
+District : Hunan; Number of Cities : 	18
+District : Hwanghae N; Number of Cities : 	2
+District : Hwanghae P; Number of Cities : 	2
+District : Hyogo; Number of Cities : 	11
+District : H�fu�borgarsv��i; Number of Cities : 	1
+District : Iasi; Number of Cities : 	1
+District : Ibaragi; Number of Cities : 	5
+District : Ibb; Number of Cities : 	1
+District : Ica; Number of Cities : 	3
+District : Idaho; Number of Cities : 	2
+District : Idlib; Number of Cities : 	1
+District : Ilam; Number of Cities : 	1
+District : Ilan; Number of Cities : 	1
+District : Illinois; Number of Cities : 	8
+District : Ilocos; Number of Cities : 	9
+District : Imbabura; Number of Cities : 	1
+District : Imereti; Number of Cities : 	1
+District : Imo & Abia; Number of Cities : 	3
+District : Inchon; Number of Cities : 	1
+District : Indiana; Number of Cities : 	7
+District : Inhambane; Number of Cities : 	1
+District : Inner Harbour; Number of Cities : 	2
+District : Inner Mongolia; Number of Cities : 	27
+District : Iowa; Number of Cities : 	5
+District : Irbid; Number of Cities : 	1
+District : Irbil; Number of Cities : 	1
+District : Irkutsk; Number of Cities : 	5
+District : Irrawaddy [Ayeyarwad; Number of Cities : 	6
+District : Ishikawa; Number of Cities : 	2
+District : Islamabad; Number of Cities : 	1
+District : Ismailia; Number of Cities : 	1
+District : Isparta; Number of Cities : 	1
+District : Istanbul; Number of Cities : 	2
+District : Ivano-Frankivsk; Number of Cities : 	1
+District : Ivanovo; Number of Cities : 	2
+District : Iwate; Number of Cities : 	1
+District : Izmir; Number of Cities : 	1
+District : I�el; Number of Cities : 	2
+District : Jakarta Raya; Number of Cities : 	2
+District : Jalisco; Number of Cities : 	15
+District : Jambi; Number of Cities : 	1
+District : Jammu and Kashmir; Number of Cities : 	6
+District : Jaroslavl; Number of Cities : 	2
+District : Jersey; Number of Cities : 	2
+District : Jerusalem; Number of Cities : 	1
+District : Jharkhand; Number of Cities : 	11
+District : Jiangsu; Number of Cities : 	26
+District : Jiangxi; Number of Cities : 	11
+District : Jilin; Number of Cities : 	20
+District : Jizn� Cechy; Number of Cities : 	3
+District : Jizn� Morava; Number of Cities : 	2
+District : Johor; Number of Cities : 	2
+District : Jubbada Hoose; Number of Cities : 	2
+District : Jujuy; Number of Cities : 	4
+District : Jun�n; Number of Cities : 	1
+District : J�nk�pings l�n; Number of Cities : 	2
+District : Kabardi-Balkaria; Number of Cities : 	1
+District : Kabol; Number of Cities : 	1
+District : Kadiogo; Number of Cities : 	1
+District : Kaduna; Number of Cities : 	2
+District : Kaesong-si; Number of Cities : 	1
+District : Kafr al-Shaykh; Number of Cities : 	5
+District : Kagawa; Number of Cities : 	1
+District : Kagoshima; Number of Cities : 	1
+District : Kahramanmaras; Number of Cities : 	1
+District : Kairo; Number of Cities : 	1
+District : Kairouan; Number of Cities : 	1
+District : Kalimantan Barat; Number of Cities : 	2
+District : Kalimantan Selatan; Number of Cities : 	2
+District : Kalimantan Tengah; Number of Cities : 	3
+District : Kalimantan Timur; Number of Cities : 	4
+District : Kaliningrad; Number of Cities : 	1
+District : Kalmykia; Number of Cities : 	1
+District : Kaluga; Number of Cities : 	2
+District : Kamt�atka; Number of Cities : 	1
+District : Kanagawa; Number of Cities : 	16
+District : Kang-won; Number of Cities : 	4
+District : Kangwon; Number of Cities : 	1
+District : Kano & Jigawa; Number of Cities : 	3
+District : Kansas; Number of Cities : 	6
+District : Kaohsiung; Number of Cities : 	3
+District : Kaolack; Number of Cities : 	1
+District : Karab�k; Number of Cities : 	1
+District : Karakalpakistan; Number of Cities : 	1
+District : Karaman; Number of Cities : 	1
+District : Karat�ai-T�erkessia; Number of Cities : 	1
+District : Karbala; Number of Cities : 	1
+District : Karjala; Number of Cities : 	1
+District : Karnataka; Number of Cities : 	18
+District : Karotegin; Number of Cities : 	1
+District : Kars; Number of Cities : 	1
+District : Kassala; Number of Cities : 	1
+District : Kastilia-La Mancha; Number of Cities : 	2
+District : Katalonia; Number of Cities : 	15
+District : Katsina; Number of Cities : 	1
+District : Kaunas; Number of Cities : 	1
+District : Kayseri; Number of Cities : 	1
+District : Kedah; Number of Cities : 	4
+District : Keelung; Number of Cities : 	2
+District : Kelantan; Number of Cities : 	2
+District : Kemerovo; Number of Cities : 	7
+District : Kentucky; Number of Cities : 	2
+District : Kerala; Number of Cities : 	14
+District : Kerman; Number of Cities : 	3
+District : Kermanshah; Number of Cities : 	1
+District : Khan Yunis; Number of Cities : 	3
+District : Khanh Hoa; Number of Cities : 	6
+District : Khartum; Number of Cities : 	4
+District : Khomas; Number of Cities : 	1
+District : Khon Kaen; Number of Cities : 	3
+District : Khorasan; Number of Cities : 	7
+District : Khorazm; Number of Cities : 	1
+District : Khujand; Number of Cities : 	1
+District : Khulna; Number of Cities : 	2
+District : Khuzestan; Number of Cities : 	6
+District : Kien Giang; Number of Cities : 	3
+District : Kigali; Number of Cities : 	1
+District : Kilimanjaro; Number of Cities : 	1
+District : Kilis; Number of Cities : 	1
+District : Kinshasa; Number of Cities : 	1
+District : Kiova; Number of Cities : 	4
+District : Kirikkale; Number of Cities : 	1
+District : Kirov; Number of Cities : 	2
+District : Kirovograd; Number of Cities : 	2
+District : Kitaa; Number of Cities : 	1
+District : Klaipeda; Number of Cities : 	1
+District : Kocaeli; Number of Cities : 	3
+District : Kochi; Number of Cities : 	1
+District : Kombo St Mary; Number of Cities : 	3
+District : Komi; Number of Cities : 	3
+District : Konya; Number of Cities : 	1
+District : Kordestan; Number of Cities : 	2
+District : Korhogo; Number of Cities : 	1
+District : Koror; Number of Cities : 	1
+District : Kosovo and Metohija; Number of Cities : 	6
+District : Kostroma; Number of Cities : 	1
+District : Kouilou; Number of Cities : 	1
+District : Kowloon and New Kowl; Number of Cities : 	7
+District : Krasnodar; Number of Cities : 	4
+District : Krasnojarsk; Number of Cities : 	5
+District : Krim; Number of Cities : 	4
+District : Kujawsko-Pomorskie; Number of Cities : 	4
+District : Kumamoto; Number of Cities : 	2
+District : Kurdufan al-Shamaliy; Number of Cities : 	2
+District : Kurgan; Number of Cities : 	1
+District : Kursk; Number of Cities : 	2
+District : Kvemo Kartli; Number of Cities : 	2
+District : KwaZulu-Natal; Number of Cities : 	8
+District : Kwangju; Number of Cities : 	1
+District : Kwara & Kogi; Number of Cities : 	6
+District : Kyonggi; Number of Cities : 	18
+District : Kyongsangbuk; Number of Cities : 	10
+District : Kyongsangnam; Number of Cities : 	11
+District : Kyoto; Number of Cities : 	4
+District : K�benhavn; Number of Cities : 	1
+District : K�rnten; Number of Cities : 	1
+District : K�tahya; Number of Cities : 	1
+District : La Araucan�a; Number of Cities : 	2
+District : La Guajira; Number of Cities : 	2
+District : La Habana; Number of Cities : 	3
+District : La Libertad; Number of Cities : 	6
+District : La Paz; Number of Cities : 	6
+District : La Rioja; Number of Cities : 	5
+District : La Romana; Number of Cities : 	3
+District : Lagos; Number of Cities : 	6
+District : Lam Dong; Number of Cities : 	3
+District : Lambayeque; Number of Cities : 	1
+District : Lampung; Number of Cities : 	2
+District : Languedoc-Roussillon; Number of Cities : 	3
+District : Lara; Number of Cities : 	1
+District : Las Tunas; Number of Cities : 	5
+District : Latakia; Number of Cities : 	1
+District : Latium; Number of Cities : 	2
+District : Lebap; Number of Cities : 	1
+District : Leinster; Number of Cities : 	1
+District : Le�n; Number of Cities : 	1
+District : Liaoning; Number of Cities : 	21
+District : Liepaja; Number of Cities : 	1
+District : Liguria; Number of Cities : 	3
+District : Lilongwe; Number of Cities : 	1
+District : Lima; Number of Cities : 	1
+District : Limassol; Number of Cities : 	1
+District : Limburg; Number of Cities : 	2
+District : Limousin; Number of Cities : 	1
+District : Lipetsk; Number of Cities : 	2
+District : Lisboa; Number of Cities : 	3
+District : Littoral; Number of Cities : 	2
+District : Li�ge; Number of Cities : 	1
+District : Lodzkie; Number of Cities : 	1
+District : Logone Occidental; Number of Cities : 	2
+District : Loja; Number of Cities : 	1
+District : Lombardia; Number of Cities : 	4
+District : Lorestan; Number of Cities : 	2
+District : Loreto; Number of Cities : 	1
+District : Lori; Number of Cities : 	1
+District : Lorraine; Number of Cities : 	2
+District : Los Lagos; Number of Cities : 	7
+District : Los R�os; Number of Cities : 	2
+District : Louisiana; Number of Cities : 	7
+District : Lovec; Number of Cities : 	1
+District : Luanda; Number of Cities : 	1
+District : Lubelskie; Number of Cities : 	1
+District : Lubuskie; Number of Cities : 	4
+District : Lugansk; Number of Cities : 	7
+District : Lusaka; Number of Cities : 	1
+District : Luxembourg; Number of Cities : 	2
+District : Luxor; Number of Cities : 	1
+District : Lviv; Number of Cities : 	1
+District : L�nsimaa; Number of Cities : 	1
+District : Maale; Number of Cities : 	1
+District : Macau; Number of Cities : 	1
+District : Madhya Pradesh; Number of Cities : 	43
+District : Madrid; Number of Cities : 	12
+District : Maekel; Number of Cities : 	1
+District : Magadan; Number of Cities : 	1
+District : Magallanes; Number of Cities : 	2
+District : Magdalena; Number of Cities : 	2
+District : Magwe [Magway]; Number of Cities : 	3
+District : Mahajanga; Number of Cities : 	1
+District : Maharashtra; Number of Cities : 	46
+District : Mah�; Number of Cities : 	1
+District : Majuro; Number of Cities : 	1
+District : Malatya; Number of Cities : 	1
+District : Malopolskie; Number of Cities : 	2
+District : Mamoutzou; Number of Cities : 	1
+District : Manab�; Number of Cities : 	2
+District : Managua; Number of Cities : 	1
+District : Mandalay; Number of Cities : 	3
+District : Mangghystau; Number of Cities : 	1
+District : Manica; Number of Cities : 	1
+District : Manicaland; Number of Cities : 	1
+District : Manipur; Number of Cities : 	1
+District : Manisa; Number of Cities : 	1
+District : Manitoba; Number of Cities : 	1
+District : Maputo; Number of Cities : 	2
+District : Maradi; Number of Cities : 	1
+District : Maramures; Number of Cities : 	2
+District : Maranh�o; Number of Cities : 	11
+District : Marche; Number of Cities : 	2
+District : Mardin; Number of Cities : 	1
+District : Marinmaa; Number of Cities : 	1
+District : Maritime; Number of Cities : 	1
+District : Markazi; Number of Cities : 	1
+District : Marrakech-Tensift-Al; Number of Cities : 	1
+District : Mary; Number of Cities : 	1
+District : Maryland; Number of Cities : 	1
+District : Masaya; Number of Cities : 	1
+District : Maseru; Number of Cities : 	1
+District : Masqat; Number of Cities : 	3
+District : Massachusetts; Number of Cities : 	10
+District : Matanzas; Number of Cities : 	1
+District : Mato Grosso; Number of Cities : 	7
+District : Mato Grosso do Sul; Number of Cities : 	13
+District : Maule; Number of Cities : 	2
+District : Mayag�ez; Number of Cities : 	1
+District : Maysan; Number of Cities : 	1
+District : Mazandaran; Number of Cities : 	6
+District : Mazowieckie; Number of Cities : 	3
+District : Mbeya; Number of Cities : 	1
+District : Mecklenburg-Vorpomme; Number of Cities : 	2
+District : Medina; Number of Cities : 	2
+District : Meghalaya; Number of Cities : 	1
+District : Mehedinti; Number of Cities : 	2
+District : Mekka; Number of Cities : 	4
+District : Mekn�s-Tafilalet; Number of Cities : 	1
+District : Mendoza; Number of Cities : 	8
+District : Meta; Number of Cities : 	1
+District : Miaoli; Number of Cities : 	1
+District : Michigan; Number of Cities : 	11
+District : Michoac�n de Ocampo; Number of Cities : 	22
+District : Midi-Pyr�n�es; Number of Cities : 	1
+District : Midlands; Number of Cities : 	1
+District : Mie; Number of Cities : 	6
+District : Minas Gerais; Number of Cities : 	71
+District : Ming��evir; Number of Cities : 	1
+District : Minnesota; Number of Cities : 	3
+District : Minsk; Number of Cities : 	3
+District : Miranda; Number of Cities : 	9
+District : Misiones; Number of Cities : 	1
+District : Misrata; Number of Cities : 	1
+District : Mississippi; Number of Cities : 	1
+District : Missouri; Number of Cities : 	6
+District : Miyagi; Number of Cities : 	2
+District : Miyazaki; Number of Cities : 	3
+District : Mizoram; Number of Cities : 	1
+District : Mogiljov; Number of Cities : 	2
+District : Molukit; Number of Cities : 	1
+District : Mon; Number of Cities : 	2
+District : Monagas; Number of Cities : 	1
+District : Montana; Number of Cities : 	1
+District : Montenegro; Number of Cities : 	1
+District : Montevideo; Number of Cities : 	1
+District : Montserrado; Number of Cities : 	1
+District : Mordva; Number of Cities : 	1
+District : Morelos; Number of Cities : 	4
+District : Morogoro; Number of Cities : 	1
+District : Moscow (City); Number of Cities : 	4
+District : Moskova; Number of Cities : 	19
+District : Mostaganem; Number of Cities : 	1
+District : Mpumalanga; Number of Cities : 	1
+District : Munster; Number of Cities : 	1
+District : Murcia; Number of Cities : 	2
+District : Mures; Number of Cities : 	2
+District : Murmansk; Number of Cities : 	1
+District : Mwanza; Number of Cities : 	1
+District : Mykolajiv; Number of Cities : 	1
+District : M�rida; Number of Cities : 	1
+District : M�xico; Number of Cities : 	48
+District : Nablus; Number of Cities : 	1
+District : Nagano; Number of Cities : 	4
+District : Nagasaki; Number of Cities : 	3
+District : Nairobi; Number of Cities : 	1
+District : Najran; Number of Cities : 	1
+District : Nakhon Pathom; Number of Cities : 	3
+District : Nakhon Ratchasima; Number of Cities : 	3
+District : Nakhon Sawan; Number of Cities : 	3
+District : Nam Ha; Number of Cities : 	3
+District : Namangan; Number of Cities : 	1
+District : Namibe; Number of Cities : 	1
+District : Nampo-si; Number of Cities : 	1
+District : Nampula; Number of Cities : 	2
+District : Namur; Number of Cities : 	1
+District : Nantou; Number of Cities : 	2
+District : Nara; Number of Cities : 	4
+District : Nari�o; Number of Cities : 	1
+District : National Capital Dis; Number of Cities : 	4
+District : National Capital Reg; Number of Cities : 	52
+District : Navarra; Number of Cities : 	2
+District : Navoi; Number of Cities : 	1
+District : Nayarit; Number of Cities : 	3
+District : Neamt; Number of Cities : 	2
+District : Nebraska; Number of Cities : 	2
+District : Negeri Sembilan; Number of Cities : 	2
+District : Neuqu�n; Number of Cities : 	1
+District : Nevada; Number of Cities : 	10
+District : New Hampshire; Number of Cities : 	2
+District : New Jersey; Number of Cities : 	9
+District : New Mexico; Number of Cities : 	2
+District : New Providence; Number of Cities : 	2
+District : New South Wales; Number of Cities : 	13
+District : New York; Number of Cities : 	13
+District : Newfoundland; Number of Cities : 	2
+District : Newmaa; Number of Cities : 	4
+District : Nghe An; Number of Cities : 	2
+District : Niamey; Number of Cities : 	1
+District : Nicosia; Number of Cities : 	1
+District : Niedersachsen; Number of Cities : 	8
+District : Niger; Number of Cities : 	2
+District : Niigata; Number of Cities : 	4
+District : Ninawa; Number of Cities : 	1
+District : Ningxia; Number of Cities : 	2
+District : Nizni Novgorod; Number of Cities : 	7
+District : Njazidja; Number of Cities : 	1
+District : Nonthaburi; Number of Cities : 	3
+District : Noord-Brabant; Number of Cities : 	4
+District : Noord-Holland; Number of Cities : 	5
+District : Nord; Number of Cities : 	2
+District : Nord-Ouest; Number of Cities : 	1
+District : Nord-Pas-de-Calais; Number of Cities : 	3
+District : Nordjylland; Number of Cities : 	1
+District : Nordrhein-Westfalen; Number of Cities : 	41
+District : Norte de Santander; Number of Cities : 	3
+District : North Austria; Number of Cities : 	2
+District : North Carolina; Number of Cities : 	14
+District : North Gaza; Number of Cities : 	2
+District : North Ireland; Number of Cities : 	2
+District : North Kazakstan; Number of Cities : 	4
+District : North Kivu; Number of Cities : 	4
+District : North Ossetia-Alania; Number of Cities : 	2
+District : North West; Number of Cities : 	6
+District : Northern; Number of Cities : 	2
+District : Northern Cape; Number of Cities : 	2
+District : Northern Mindanao; Number of Cities : 	12
+District : Nothwest Border Prov; Number of Cities : 	23
+District : Nouakchott; Number of Cities : 	1
+District : Nova Scotia; Number of Cities : 	5
+District : Novgorod; Number of Cities : 	2
+District : Novosibirsk; Number of Cities : 	1
+District : Nuevo Le�n; Number of Cities : 	23
+District : Nusa Tenggara Barat; Number of Cities : 	3
+District : Nusa Tenggara Timur; Number of Cities : 	3
+District : Nyanza; Number of Cities : 	1
+District : Oaxaca; Number of Cities : 	7
+District : Odesa; Number of Cities : 	2
+District : Ogun; Number of Cities : 	3
+District : Ohio; Number of Cities : 	6
+District : Oita; Number of Cities : 	2
+District : Okayama; Number of Cities : 	3
+District : Okinawa; Number of Cities : 	3
+District : Oklahoma; Number of Cities : 	4
+District : Omsk; Number of Cities : 	1
+District : Ondo & Ekiti; Number of Cities : 	27
+District : Ontario; Number of Cities : 	32
+District : Opolskie; Number of Cities : 	1
+District : Oran; Number of Cities : 	1
+District : Ordu; Number of Cities : 	1
+District : Oregon; Number of Cities : 	3
+District : Orenburg; Number of Cities : 	3
+District : Oriental; Number of Cities : 	2
+District : Orissa; Number of Cities : 	10
+District : Orjol; Number of Cities : 	1
+District : Oromia; Number of Cities : 	1
+District : Oruro; Number of Cities : 	1
+District : Osaka; Number of Cities : 	22
+District : Osh; Number of Cities : 	1
+District : Osijek-Baranja; Number of Cities : 	1
+District : Oslo; Number of Cities : 	1
+District : Osmaniye; Number of Cities : 	1
+District : Osrednjeslovenska; Number of Cities : 	1
+District : Ouest; Number of Cities : 	4
+District : Outer Harbour; Number of Cities : 	2
+District : Ou�m�; Number of Cities : 	1
+District : Overijssel; Number of Cities : 	2
+District : Oyo & Osun; Number of Cities : 	54
+District : O�Higgins; Number of Cities : 	1
+District : Pahang; Number of Cities : 	1
+District : Panam�; Number of Cities : 	3
+District : Panevezys; Number of Cities : 	1
+District : Paramaribo; Number of Cities : 	1
+District : Paran�; Number of Cities : 	21
+District : Para�ba; Number of Cities : 	7
+District : Par�; Number of Cities : 	8
+District : Pavlodar; Number of Cities : 	2
+District : Pays de la Loire; Number of Cities : 	13
+District : Pegu [Bago]; Number of Cities : 	6
+District : Peking; Number of Cities : 	3
+District : Pennsylvania; Number of Cities : 	4
+District : Penza; Number of Cities : 	2
+District : Perak; Number of Cities : 	2
+District : Perm; Number of Cities : 	4
+District : Pernambuco; Number of Cities : 	22
+District : Phnom Penh; Number of Cities : 	3
+District : Piau�; Number of Cities : 	2
+District : Picardie; Number of Cities : 	1
+District : Pichincha; Number of Cities : 	6
+District : Piemonte; Number of Cities : 	3
+District : Pietari; Number of Cities : 	4
+District : Pihkova; Number of Cities : 	3
+District : Pinar del R�o; Number of Cities : 	5
+District : Pingtung; Number of Cities : 	1
+District : Pirkanmaa; Number of Cities : 	1
+District : Piura; Number of Cities : 	3
+District : Plaines Wilhelms; Number of Cities : 	6
+District : Plateau & Nassarawa; Number of Cities : 	6
+District : Plovdiv; Number of Cities : 	1
+District : Plymouth; Number of Cities : 	1
+District : Podkarpackie; Number of Cities : 	1
+District : Podlaskie; Number of Cities : 	1
+District : Podravska; Number of Cities : 	1
+District : Pohjois-Pohjanmaa; Number of Cities : 	1
+District : Pohnpei; Number of Cities : 	1
+District : Pomorskie; Number of Cities : 	3
+District : Ponce; Number of Cities : 	1
+District : Pondicherry; Number of Cities : 	1
+District : Port Said; Number of Cities : 	3
+District : Port-Louis; Number of Cities : 	1
+District : Port-of-Spain; Number of Cities : 	1
+District : Porto; Number of Cities : 	1
+District : Portuguesa; Number of Cities : 	3
+District : Potos�; Number of Cities : 	1
+District : Prahova; Number of Cities : 	1
+District : Primorje; Number of Cities : 	3
+District : Primorje-Gorski Kota; Number of Cities : 	2
+District : Provence-Alpes-C�te; Number of Cities : 	4
+District : Puebla; Number of Cities : 	9
+District : Puerto Plata; Number of Cities : 	6
+District : Pulau Pinang; Number of Cities : 	2
+District : Pultava; Number of Cities : 	3
+District : Punjab; Number of Cities : 	58
+District : Puno; Number of Cities : 	2
+District : Pusan; Number of Cities : 	1
+District : Pyongan N; Number of Cities : 	2
+District : Pyongan P; Number of Cities : 	2
+District : Pyongyang-si; Number of Cities : 	1
+District : P�ij�t-H�me; Number of Cities : 	1
+District : Qandahar; Number of Cities : 	1
+District : Qaraghandy; Number of Cities : 	3
+District : Qashqadaryo; Number of Cities : 	1
+District : Qasim; Number of Cities : 	1
+District : Qazvin; Number of Cities : 	1
+District : Qina; Number of Cities : 	2
+District : Qinghai; Number of Cities : 	1
+District : Qom; Number of Cities : 	2
+District : Qostanay; Number of Cities : 	2
+District : Quang Binh; Number of Cities : 	3
+District : Quang Nam-Da Nang; Number of Cities : 	4
+District : Quang Ninh; Number of Cities : 	3
+District : Queensland; Number of Cities : 	5
+District : Quer�taro; Number of Cities : 	4
+District : Quer�taro de Arteaga; Number of Cities : 	3
+District : Quetzaltenango; Number of Cities : 	1
+District : Quind�o; Number of Cities : 	1
+District : Quintana Roo; Number of Cities : 	8
+District : Qu�bec; Number of Cities : 	5
+District : Qyzylorda; Number of Cities : 	1
+District : Rabat-Sal�-Zammour-Z; Number of Cities : 	3
+District : Rafah; Number of Cities : 	1
+District : Rajasthan; Number of Cities : 	14
+District : Rajshahi; Number of Cities : 	9
+District : Rakhine; Number of Cities : 	2
+District : Rangoon [Yangon]; Number of Cities : 	3
+District : Rarotonga; Number of Cities : 	1
+District : Republika Srpska; Number of Cities : 	3
+District : Rheinland-Pfalz; Number of Cities : 	7
+District : Rhode Island; Number of Cities : 	2
+District : Rh�ne-Alpes; Number of Cities : 	4
+District : Riad; Number of Cities : 	1
+District : Riau; Number of Cities : 	5
+District : Rift Valley; Number of Cities : 	4
+District : Riika; Number of Cities : 	1
+District : Rio Grande do Norte; Number of Cities : 	12
+District : Rio Grande do Sul; Number of Cities : 	96
+District : Rio de Janeiro; Number of Cities : 	86
+District : Risaralda; Number of Cities : 	3
+District : Rivers & Bayelsa; Number of Cities : 	4
+District : Rivne; Number of Cities : 	1
+District : Riyadh; Number of Cities : 	1
+District : Rjazan; Number of Cities : 	1
+District : Rogaland; Number of Cities : 	1
+District : Rond�nia; Number of Cities : 	3
+District : Roraima; Number of Cities : 	2
+District : Rostov-na-Donu; Number of Cities : 	7
+District : Ruse; Number of Cities : 	1
+District : Saarland; Number of Cities : 	1
+District : Sabah; Number of Cities : 	1
+District : Saga; Number of Cities : 	1
+District : Sagaing; Number of Cities : 	1
+District : Saha (Jakutia); Number of Cities : 	2
+District : Sahalin; Number of Cities : 	1
+District : Saint George�s; Number of Cities : 	3
+District : Saint Helena; Number of Cities : 	2
+District : Saint-Denis; Number of Cities : 	1
+District : Saint-Louis; Number of Cities : 	1
+District : Saint-Pierre; Number of Cities : 	1
+District : Saipan; Number of Cities : 	1
+District : Saitama; Number of Cities : 	21
+District : Sakarya; Number of Cities : 	2
+District : Saksi; Number of Cities : 	4
+District : Salta; Number of Cities : 	1
+District : Salzburg; Number of Cities : 	1
+District : Samara; Number of Cities : 	4
+District : Samarkand; Number of Cities : 	1
+District : Samsun; Number of Cities : 	1
+District : San Jos�; Number of Cities : 	3
+District : San Juan; Number of Cities : 	6
+District : San Luis; Number of Cities : 	3
+District : San Luis Potos�; Number of Cities : 	15
+District : San Marino; Number of Cities : 	3
+District : San Miguel; Number of Cities : 	3
+District : San Miguelito; Number of Cities : 	3
+District : San Pedro de Macor�s; Number of Cities : 	7
+District : San Salvador; Number of Cities : 	9
+District : Sanaa; Number of Cities : 	1
+District : Sancti-Sp�ritus; Number of Cities : 	1
+District : Sanliurfa; Number of Cities : 	2
+District : Santa Ana; Number of Cities : 	3
+District : Santa Catarina; Number of Cities : 	23
+District : Santa Cruz; Number of Cities : 	6
+District : Santa F�; Number of Cities : 	5
+District : Santaf� de Bogot�; Number of Cities : 	5
+District : Santander; Number of Cities : 	4
+District : Santiago; Number of Cities : 	12
+District : Santiago de Cuba; Number of Cities : 	5
+District : Santiago del Estero; Number of Cities : 	5
+District : Saratov; Number of Cities : 	4
+District : Sarawak; Number of Cities : 	2
+District : Sardinia; Number of Cities : 	2
+District : Saskatchewan; Number of Cities : 	2
+District : Satu Mare; Number of Cities : 	3
+District : Savannakhet; Number of Cities : 	1
+District : Sawhaj; Number of Cities : 	2
+District : Schaan; Number of Cities : 	1
+District : Schleswig-Holstein; Number of Cities : 	2
+District : Scotland; Number of Cities : 	4
+District : Selangor; Number of Cities : 	7
+District : Semnan; Number of Cities : 	2
+District : Seoul; Number of Cities : 	1
+District : Sergipe; Number of Cities : 	5
+District : Serravalle/Dogano; Number of Cities : 	1
+District : Severn� Cechy; Number of Cities : 	6
+District : Severn� Morava; Number of Cities : 	4
+District : Sfax; Number of Cities : 	1
+District : Shaanxi; Number of Cities : 	8
+District : Shaba; Number of Cities : 	4
+District : Shamal Sina; Number of Cities : 	2
+District : Shan; Number of Cities : 	4
+District : Shandong; Number of Cities : 	32
+District : Shanghai; Number of Cities : 	1
+District : Shanxi; Number of Cities : 	9
+District : Sharja; Number of Cities : 	1
+District : Shefa; Number of Cities : 	1
+District : Shiga; Number of Cities : 	3
+District : Shimane; Number of Cities : 	1
+District : Shizuoka; Number of Cities : 	9
+District : Sibiu; Number of Cities : 	1
+District : Sichuan; Number of Cities : 	21
+District : Sidi Bel Abb�s; Number of Cities : 	5
+District : Siem Reap; Number of Cities : 	3
+District : Siirt; Number of Cities : 	1
+District : Sinaloa; Number of Cities : 	7
+District : Sind; Number of Cities : 	9
+District : Sindh; Number of Cities : 	4
+District : Sisilia; Number of Cities : 	4
+District : Sistan va Baluchesta; Number of Cities : 	6
+District : Sivas; Number of Cities : 	1
+District : Skikda; Number of Cities : 	1
+District : Skopje; Number of Cities : 	1
+District : Sk�ne l�n; Number of Cities : 	6
+District : Slaskie; Number of Cities : 	16
+District : Smolensk; Number of Cities : 	1
+District : Sofala; Number of Cities : 	1
+District : Sokoto & Kebbi & Zam; Number of Cities : 	10
+District : Songkhla; Number of Cities : 	3
+District : Sonora; Number of Cities : 	9
+District : Souss Massa-Dra�; Number of Cities : 	2
+District : Sousse; Number of Cities : 	1
+District : South Australia; Number of Cities : 	2
+District : South Carolina; Number of Cities : 	4
+District : South Dakota; Number of Cities : 	3
+District : South Kazakstan; Number of Cities : 	2
+District : South Kivu; Number of Cities : 	4
+District : South Tarawa; Number of Cities : 	4
+District : Southern Mindanao; Number of Cities : 	21
+District : Southern Tagalog; Number of Cities : 	73
+District : Split-Dalmatia; Number of Cities : 	1
+District : St George; Number of Cities : 	7
+District : St George Basseterre; Number of Cities : 	3
+District : St John; Number of Cities : 	3
+District : St Michael; Number of Cities : 	2
+District : St Thomas; Number of Cities : 	3
+District : St. Andrew; Number of Cities : 	4
+District : St. Catherine; Number of Cities : 	3
+District : Stavropol; Number of Cities : 	5
+District : Steiermark; Number of Cities : 	1
+District : Streymoyar; Number of Cities : 	1
+District : Suceava; Number of Cities : 	1
+District : Sucre; Number of Cities : 	3
+District : Suez; Number of Cities : 	1
+District : Sulawesi Selatan; Number of Cities : 	3
+District : Sulawesi Tengah; Number of Cities : 	2
+District : Sulawesi Tenggara; Number of Cities : 	2
+District : Sulawesi Utara; Number of Cities : 	4
+District : Sumatera Barat; Number of Cities : 	2
+District : Sumatera Selatan; Number of Cities : 	5
+District : Sumatera Utara; Number of Cities : 	19
+District : Sumqayit; Number of Cities : 	1
+District : Sumy; Number of Cities : 	3
+District : Surkhondaryo; Number of Cities : 	1
+District : Sverdlovsk; Number of Cities : 	7
+District : Swietokrzyskie; Number of Cities : 	1
+District : Sylhet; Number of Cities : 	1
+District : Szabolcs-Szatm�r-Ber; Number of Cities : 	1
+District : S�o Paulo; Number of Cities : 	174
+District : S�o Tiago; Number of Cities : 	2
+District : S�r-Tr�ndelag; Number of Cities : 	1
+District : S�tif; Number of Cities : 	1
+District : Tabasco; Number of Cities : 	7
+District : Tabora; Number of Cities : 	1
+District : Tabuk; Number of Cities : 	1
+District : Tacna; Number of Cities : 	1
+District : Tadla-Azilal; Number of Cities : 	1
+District : Taegu; Number of Cities : 	1
+District : Taejon; Number of Cities : 	1
+District : Tahiti; Number of Cities : 	2
+District : Taichung; Number of Cities : 	3
+District : Tainan; Number of Cities : 	2
+District : Taipei; Number of Cities : 	13
+District : Taitung; Number of Cities : 	1
+District : Taizz; Number of Cities : 	1
+District : Taka-Karpatia; Number of Cities : 	2
+District : Tamaulipas; Number of Cities : 	13
+District : Tambov; Number of Cities : 	2
+District : Tamil Nadu; Number of Cities : 	59
+District : Tanga; Number of Cities : 	1
+District : Tanger-T�touan; Number of Cities : 	7
+District : Taoti; Number of Cities : 	1
+District : Taoyuan; Number of Cities : 	5
+District : Tarapac�; Number of Cities : 	2
+District : Taraz; Number of Cities : 	1
+District : Tarija; Number of Cities : 	1
+District : Tartumaa; Number of Cities : 	1
+District : Tasmania; Number of Cities : 	1
+District : Tatarstan; Number of Cities : 	7
+District : Taza-Al Hoceima-Taou; Number of Cities : 	2
+District : Tbilisi; Number of Cities : 	1
+District : Teheran; Number of Cities : 	6
+District : Tekirdag; Number of Cities : 	2
+District : Tel Aviv; Number of Cities : 	14
+District : Tenasserim [Tanintha; Number of Cities : 	6
+District : Tennessee; Number of Cities : 	5
+District : Terengganu; Number of Cities : 	2
+District : Ternopil; Number of Cities : 	1
+District : Tete; Number of Cities : 	1
+District : Texas; Number of Cities : 	32
+District : Thessalia; Number of Cities : 	1
+District : Thimphu; Number of Cities : 	1
+District : Thi�s; Number of Cities : 	2
+District : Thua Thien-Hue; Number of Cities : 	2
+District : Th�ringen; Number of Cities : 	3
+District : Tianjin; Number of Cities : 	1
+District : Tiaret; Number of Cities : 	1
+District : Tibet; Number of Cities : 	1
+District : Tien Giang; Number of Cities : 	3
+District : Tigray; Number of Cities : 	1
+District : Timis; Number of Cities : 	1
+District : Tirana; Number of Cities : 	1
+District : Tiroli; Number of Cities : 	1
+District : Tjumen; Number of Cities : 	2
+District : Tlemcen; Number of Cities : 	2
+District : Toa Baja; Number of Cities : 	3
+District : Toamasina; Number of Cities : 	1
+District : Tocantins; Number of Cities : 	2
+District : Tochigi; Number of Cities : 	4
+District : Tokat; Number of Cities : 	1
+District : Tokushima; Number of Cities : 	1
+District : Tokyo-to; Number of Cities : 	18
+District : Tolima; Number of Cities : 	1
+District : Tomsk; Number of Cities : 	2
+District : Tongatapu; Number of Cities : 	1
+District : Tortola; Number of Cities : 	2
+District : Toscana; Number of Cities : 	5
+District : Toskent; Number of Cities : 	3
+District : Toskent Shahri; Number of Cities : 	2
+District : Tottori; Number of Cities : 	2
+District : Toyama; Number of Cities : 	2
+District : Trabzon; Number of Cities : 	1
+District : Trentino-Alto Adige; Number of Cities : 	4
+District : Tripoli; Number of Cities : 	1
+District : Tripura; Number of Cities : 	1
+District : Trujillo; Number of Cities : 	1
+District : Tucum�n; Number of Cities : 	4
+District : Tula; Number of Cities : 	2
+District : Tulcea; Number of Cities : 	1
+District : Tungurahua; Number of Cities : 	1
+District : Tunis; Number of Cities : 	1
+District : Tutuila; Number of Cities : 	2
+District : Tver; Number of Cities : 	1
+District : Tyva; Number of Cities : 	1
+District : T�bessa; Number of Cities : 	1
+District : T�chira; Number of Cities : 	2
+District : T�eljabinsk; Number of Cities : 	4
+District : T�erkasy; Number of Cities : 	2
+District : T�ernigiv; Number of Cities : 	1
+District : T�ernivtsi; Number of Cities : 	1
+District : T�et�enia; Number of Cities : 	1
+District : T�ita; Number of Cities : 	1
+District : T�uvassia; Number of Cities : 	2
+District : Ubon Ratchathani; Number of Cities : 	3
+District : Ucayali; Number of Cities : 	1
+District : Udmurtia; Number of Cities : 	4
+District : Udon Thani; Number of Cities : 	3
+District : Ulaanbaatar; Number of Cities : 	2
+District : Uljanovsk; Number of Cities : 	2
+District : Umbria; Number of Cities : 	2
+District : Upolu; Number of Cities : 	1
+District : Uppsala l�n; Number of Cities : 	2
+District : Usak; Number of Cities : 	1
+District : Utah; Number of Cities : 	8
+District : Utrecht; Number of Cities : 	2
+District : Uttar Pradesh; Number of Cities : 	91
+District : Uttaranchal; Number of Cities : 	5
+District : Vaduz; Number of Cities : 	1
+District : Valencia; Number of Cities : 	10
+District : Valle; Number of Cities : 	6
+District : Valpara�so; Number of Cities : 	5
+District : Van; Number of Cities : 	1
+District : Varna; Number of Cities : 	3
+District : Varsinais-Suomi; Number of Cities : 	2
+District : Vaud; Number of Cities : 	1
+District : Veneto; Number of Cities : 	4
+District : Veracruz; Number of Cities : 	25
+District : Veracruz-Llave; Number of Cities : 	3
+District : Viangchan; Number of Cities : 	1
+District : Victoria; Number of Cities : 	2
+District : Villa Clara; Number of Cities : 	3
+District : Vilna; Number of Cities : 	1
+District : Vinnytsja; Number of Cities : 	1
+District : Virginia; Number of Cities : 	12
+District : Vitebsk; Number of Cities : 	3
+District : Vladimir; Number of Cities : 	3
+District : Vojvodina; Number of Cities : 	3
+District : Volgograd; Number of Cities : 	3
+District : Vologda; Number of Cities : 	2
+District : Volynia; Number of Cities : 	1
+District : Voronez; Number of Cities : 	1
+District : Vrancea; Number of Cities : 	1
+District : V�chodn� Cechy; Number of Cities : 	5
+District : V�chodn� Slovensko; Number of Cities : 	4
+District : V�lcea; Number of Cities : 	2
+District : V�sterbottens l�n; Number of Cities : 	2
+District : V�sternorrlands l�n; Number of Cities : 	2
+District : V�stmanlands l�n; Number of Cities : 	2
+District : Wakayama; Number of Cities : 	1
+District : Wales; Number of Cities : 	3
+District : Wallis; Number of Cities : 	1
+District : Warminsko-Mazurskie; Number of Cities : 	2
+District : Washington; Number of Cities : 	5
+District : Wasit; Number of Cities : 	1
+District : Wellington; Number of Cities : 	3
+District : West Australia; Number of Cities : 	2
+District : West Azerbaidzan; Number of Cities : 	10
+District : West Bengali; Number of Cities : 	107
+District : West Flanderi; Number of Cities : 	2
+District : West Greece; Number of Cities : 	2
+District : West G�tanmaan l�n; Number of Cities : 	7
+District : West Irian; Number of Cities : 	3
+District : West Island; Number of Cities : 	3
+District : West Java; Number of Cities : 	51
+District : West Kasai; Number of Cities : 	4
+District : West Kazakstan; Number of Cities : 	2
+District : Western; Number of Cities : 	10
+District : Western Cape; Number of Cities : 	7
+District : Western Mindanao; Number of Cities : 	6
+District : Western Visayas; Number of Cities : 	19
+District : Wielkopolskie; Number of Cities : 	2
+District : Wien; Number of Cities : 	1
+District : Wilayah Persekutuan; Number of Cities : 	3
+District : Wisconsin; Number of Cities : 	5
+District : Woqooyi Galbeed; Number of Cities : 	2
+District : Xinxiang; Number of Cities : 	11
+District : Yamagata; Number of Cities : 	4
+District : Yamaguchi; Number of Cities : 	6
+District : Yamalin Nenetsia; Number of Cities : 	5
+District : Yamanashi; Number of Cities : 	1
+District : Yamoussoukro; Number of Cities : 	1
+District : Yanggang; Number of Cities : 	1
+District : Yaoyi; Number of Cities : 	1
+District : Yaracuy; Number of Cities : 	2
+District : Yazd; Number of Cities : 	1
+District : Yerevan; Number of Cities : 	1
+District : Yogyakarta; Number of Cities : 	2
+District : Yucat�n; Number of Cities : 	1
+District : Yunnan; Number of Cities : 	5
+District : Y�nlin; Number of Cities : 	1
+District : Zacatecas; Number of Cities : 	3
+District : Zachodnio-Pomorskie; Number of Cities : 	2
+District : Zamb�zia; Number of Cities : 	3
+District : Zanjan; Number of Cities : 	1
+District : Zanzibar West; Number of Cities : 	2
+District : Zapadn� Cechy; Number of Cities : 	2
+District : Zaporizzja; Number of Cities : 	3
+District : Zhejiang; Number of Cities : 	16
+District : Ziguinchor; Number of Cities : 	1
+District : Zinder; Number of Cities : 	1
+District : Zonguldak; Number of Cities : 	1
+District : Zufar; Number of Cities : 	1
+District : Zuid-Holland; Number of Cities : 	6
+District : Zulia; Number of Cities : 	4
+District : Zytomyr; Number of Cities : 	2
+District : Z�rich; Number of Cities : 	1
+District : al-Anbar; Number of Cities : 	1
+District : al-Asima; Number of Cities : 	1
+District : al-Bahr al-Abyad; Number of Cities : 	2
+District : al-Bahr al-Ahmar; Number of Cities : 	3
+District : al-Batina; Number of Cities : 	1
+District : al-Buhayra; Number of Cities : 	3
+District : al-Daqahliya; Number of Cities : 	4
+District : al-Faiyum; Number of Cities : 	1
+District : al-Gharbiya; Number of Cities : 	3
+District : al-Hasaka; Number of Cities : 	1
+District : al-Jazira; Number of Cities : 	2
+District : al-Khudud al-Samaliy; Number of Cities : 	2
+District : al-Manama; Number of Cities : 	1
+District : al-Minufiya; Number of Cities : 	2
+District : al-Minya; Number of Cities : 	2
+District : al-Najaf; Number of Cities : 	1
+District : al-Qadarif; Number of Cities : 	1
+District : al-Qadisiya; Number of Cities : 	1
+District : al-Qalyubiya; Number of Cities : 	5
+District : al-Qasim; Number of Cities : 	1
+District : al-Raqqa; Number of Cities : 	1
+District : al-Shamal; Number of Cities : 	1
+District : al-Sharqiya; Number of Cities : 	11
+District : al-Sulaymaniya; Number of Cities : 	1
+District : al-Tamim; Number of Cities : 	1
+District : al-Zarqa; Number of Cities : 	2
+District : al-Zawiya; Number of Cities : 	1
+District : �; Number of Cities : 	24
+District : �iauliai; Number of Cities : 	1
+District : �irak; Number of Cities : 	1
+District : �le-de-France; Number of Cities : 	4
+District : �orum; Number of Cities : 	1
+District : �rebros l�n; Number of Cities : 	2
+District : �rhus; Number of Cities : 	1

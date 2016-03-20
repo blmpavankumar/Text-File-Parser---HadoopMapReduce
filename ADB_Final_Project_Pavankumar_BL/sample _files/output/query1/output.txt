@@ -1,0 +1,1599 @@
+City: Abeokuta; Population: 427400
+City: Abidjan; Population: 2500000
+City: Abu Dhabi; Population: 398695
+City: Abu Dhabi; Population: 398695
+City: Abu Dhabi; Population: 398695
+City: Abuja; Population: 350100
+City: Abuja; Population: 350100
+City: Abuja; Population: 350100
+City: Acapulco de Ju�rez; Population: 721011
+City: Acapulco de Ju�rez; Population: 721011
+City: Acapulco de Ju�rez; Population: 721011
+City: Accra; Population: 1070000
+City: Accra; Population: 1070000
+City: Adana; Population: 1131198
+City: Addis Abeba; Population: 2495000
+City: Addis Abeba; Population: 2495000
+City: Addis Abeba; Population: 2495000
+City: Adelaide; Population: 978100
+City: Adelaide; Population: 978100
+City: Aden; Population: 398300
+City: Ado-Ekiti; Population: 359400
+City: Ado-Ekiti; Population: 359400
+City: Ado-Ekiti; Population: 359400
+City: Agra; Population: 891790
+City: Agra; Population: 891790
+City: Aguascalientes; Population: 643360
+City: Ahmedabad; Population: 2876710
+City: Ahome; Population: 358663
+City: Ahvaz; Population: 804980
+City: Ajmer; Population: 402700
+City: Akita; Population: 314440
+City: Akola; Population: 328034
+City: Alberton; Population: 410102
+City: Albuquerque; Population: 448607
+City: Albuquerque; Population: 448607
+City: Aleppo; Population: 1261983
+City: Alexandria; Population: 3328196
+City: Alger; Population: 2168000
+City: Aligarh; Population: 480520
+City: Aligarh; Population: 480520
+City: Allahabad; Population: 792858
+City: Allahabad; Population: 792858
+City: Almaty; Population: 1129400
+City: Almaty; Population: 1129400
+City: Almirante Brown; Population: 538918
+City: Almirante Brown; Population: 538918
+City: Almirante Brown; Population: 538918
+City: Amagasaki; Population: 481434
+City: Amman; Population: 1000000
+City: Amoy [Xiamen]; Population: 627500
+City: Amoy [Xiamen]; Population: 627500
+City: Amravati; Population: 421576
+City: Amritsar; Population: 708835
+City: Amsterdam; Population: 731200
+City: Anaheim; Population: 328014
+City: Ananindeua; Population: 400940
+City: Andijon; Population: 318600
+City: Ankara; Population: 3038159
+City: Ansan; Population: 510314
+City: Anshan; Population: 1200000
+City: Antalya; Population: 564914
+City: Antananarivo; Population: 675669
+City: Antipolo; Population: 470866
+City: Antipolo; Population: 470866
+City: Antwerpen; Population: 446525
+City: Anyang; Population: 420332
+City: Anyang; Population: 591106
+City: Aparecida de Goi�nia; Population: 324662
+City: Aparecida de Goi�nia; Population: 324662
+City: Aparecida de Goi�nia; Population: 324662
+City: Aracaju; Population: 445555
+City: Arak; Population: 380755
+City: Ardebil; Population: 340386
+City: Arequipa; Population: 762000
+City: Arkangeli; Population: 361800
+City: Arlington; Population: 332969
+City: Asahikawa; Population: 364813
+City: Ashgabat; Population: 540600
+City: Asmara; Population: 431000
+City: Astana; Population: 311200
+City: Astrahan; Population: 486100
+City: Asunci�n; Population: 557776
+City: Asyut; Population: 343498
+City: Athenai; Population: 772072
+City: Atizap�n de Zaragoza; Population: 467262
+City: Atizap�n de Zaragoza; Population: 467262
+City: Atizap�n de Zaragoza; Population: 467262
+City: Atlanta; Population: 416474
+City: Auckland; Population: 381800
+City: Austin; Population: 656562
+City: Avellaneda; Population: 353046
+City: Avellaneda; Population: 353046
+City: Bacolod; Population: 429076
+City: Bacolod; Population: 429076
+City: Bacoor; Population: 305699
+City: Bacoor; Population: 305699
+City: Baghdad; Population: 4336000
+City: Bahawalpur; Population: 403408
+City: Baku; Population: 1787800
+City: Balikpapan; Population: 338752
+City: Balikpapan; Population: 338752
+City: Baltimore; Population: 651154
+City: Bamako; Population: 809552
+City: Bandar Lampung; Population: 680332
+City: Bandar Lampung; Population: 680332
+City: Bandung; Population: 2429000
+City: Bandung; Population: 2429000
+City: Bangalore; Population: 2660088
+City: Bangkok; Population: 6320174
+City: Bangui; Population: 524000
+City: Banjarmasin; Population: 482931
+City: Banjarmasin; Population: 482931
+City: Baoding; Population: 483155
+City: Baoji; Population: 337765
+City: Baotou; Population: 980000
+City: Baotou; Population: 980000
+City: Barcelona; Population: 1503451
+City: Barcelona; Population: 322267
+City: Bareilly; Population: 587211
+City: Bareilly; Population: 587211
+City: Bari; Population: 331848
+City: Barnaul; Population: 580100
+City: Barquisimeto; Population: 877239
+City: Barranquilla; Population: 1223260
+City: Basra; Population: 406296
+City: Bauru; Population: 313670
+City: Bauru; Population: 313670
+City: Beira; Population: 397368
+City: Beirut; Population: 1100000
+City: Bekasi; Population: 644300
+City: Bekasi; Population: 644300
+City: Belford Roxo; Population: 425194
+City: Belford Roxo; Population: 425194
+City: Belford Roxo; Population: 425194
+City: Belford Roxo; Population: 425194
+City: Belgaum; Population: 326399
+City: Belgorod; Population: 342000
+City: Bello; Population: 333470
+City: Belo Horizonte; Population: 2139125
+City: Belo Horizonte; Population: 2139125
+City: Belo Horizonte; Population: 2139125
+City: Bel�m; Population: 1186926
+City: Bengasi; Population: 804000
+City: Bengbu; Population: 449245
+City: Benito Ju�rez; Population: 419276
+City: Benito Ju�rez; Population: 419276
+City: Benito Ju�rez; Population: 419276
+City: Benoni; Population: 365467
+City: Benxi; Population: 770000
+City: Beograd; Population: 1204000
+City: Beograd; Population: 1204000
+City: Berlin; Population: 3386667
+City: Betim; Population: 302108
+City: Betim; Population: 302108
+City: Bhatpara; Population: 304952
+City: Bhatpara; Population: 304952
+City: Bhavnagar; Population: 402338
+City: Bhilai; Population: 386159
+City: Bhiwandi; Population: 379070
+City: Bhopal; Population: 1062771
+City: Bhopal; Population: 1062771
+City: Bhubaneswar; Population: 411542
+City: Bielefeld; Population: 321125
+City: Bikaner; Population: 416289
+City: Bilbao; Population: 357589
+City: Birmingham; Population: 1013000
+City: Bishkek; Population: 589400
+City: Bishkek; Population: 589400
+City: Blantyre; Population: 478155
+City: Bloemfontein; Population: 334341
+City: Bloemfontein; Population: 334341
+City: Bochum; Population: 392830
+City: Bokaro Steel City; Population: 333683
+City: Bokaro Steel City; Population: 333683
+City: Bokaro Steel City; Population: 333683
+City: Bologna; Population: 381161
+City: Bonn; Population: 301048
+City: Boston; Population: 589141
+City: Bouak�; Population: 329850
+City: Brasov; Population: 314225
+City: Bras�lia; Population: 1969868
+City: Bras�lia; Population: 1969868
+City: Bratislava; Population: 448292
+City: Brazzaville; Population: 950000
+City: Bremen; Population: 540330
+City: Brisbane; Population: 1291117
+City: Bristol; Population: 402000
+City: Brjansk; Population: 457400
+City: Brno; Population: 381862
+City: Brno; Population: 381862
+City: Bucaramanga; Population: 515555
+City: Bucuresti; Population: 2016131
+City: Budapest; Population: 1811552
+City: Buenos Aires; Population: 2982146
+City: Buenos Aires; Population: 2982146
+City: Buenos Aires; Population: 2982146
+City: Bulawayo; Population: 621742
+City: Bursa; Population: 1095842
+City: Bydgoszcz; Population: 386855
+City: Cagayan de Oro; Population: 461877
+City: Cagayan de Oro; Population: 461877
+City: Cagayan de Oro; Population: 461877
+City: Cagayan de Oro; Population: 461877
+City: Cairo; Population: 6789479
+City: Cajeme; Population: 355679
+City: Calcutta [Kolkata]; Population: 4399819
+City: Calcutta [Kolkata]; Population: 4399819
+City: Calcutta [Kolkata]; Population: 4399819
+City: Calgary; Population: 768082
+City: Cali; Population: 2077386
+City: Calicut (Kozhikode); Population: 419831
+City: Calicut (Kozhikode); Population: 419831
+City: Callao; Population: 424294
+City: Campina Grande; Population: 352497
+City: Campina Grande; Population: 352497
+City: Campinas; Population: 950043
+City: Campinas; Population: 950043
+City: Campo Grande; Population: 649593
+City: Campo Grande; Population: 649593
+City: Campo Grande; Population: 649593
+City: Campo Grande; Population: 649593
+City: Campo Grande; Population: 649593
+City: Campos dos Goytacazes; Population: 398418
+City: Campos dos Goytacazes; Population: 398418
+City: Campos dos Goytacazes; Population: 398418
+City: Campos dos Goytacazes; Population: 398418
+City: Campos dos Goytacazes; Population: 398418
+City: Canberra; Population: 322723
+City: Canberra; Population: 322723
+City: Cape Town; Population: 2352121
+City: Cape Town; Population: 2352121
+City: Cape Town; Population: 2352121
+City: Caracas; Population: 1975294
+City: Caracas; Population: 1975294
+City: Carapicu�ba; Population: 357552
+City: Carapicu�ba; Population: 357552
+City: Cardiff; Population: 321000
+City: Cariacica; Population: 319033
+City: Cariacica; Population: 319033
+City: Cartagena; Population: 805757
+City: Casablanca; Population: 2940623
+City: Catania; Population: 337862
+City: Caxias do Sul; Population: 349581
+City: Caxias do Sul; Population: 349581
+City: Caxias do Sul; Population: 349581
+City: Caxias do Sul; Population: 349581
+City: Caxias do Sul; Population: 349581
+City: Caxias do Sul; Population: 349581
+City: Cebu; Population: 718821
+City: Cebu; Population: 718821
+City: Celaya; Population: 382140
+City: Centro (Villahermosa); Population: 519873
+City: Centro (Villahermosa); Population: 519873
+City: Chandigarh; Population: 504094
+City: Chang-won; Population: 481694
+City: Changchun; Population: 2812000
+City: Changde; Population: 301276
+City: Changsha; Population: 1809800
+City: Changzhi; Population: 317144
+City: Changzhou; Population: 530000
+City: Chaozhou; Population: 313469
+City: Charlotte; Population: 540828
+City: Charlotte; Population: 540828
+City: Chengdu; Population: 3361500
+City: Chennai (Madras); Population: 3841396
+City: Chennai (Madras); Population: 3841396
+City: Chennai (Madras); Population: 3841396
+City: Chiba; Population: 863930
+City: Chicago; Population: 2896016
+City: Chiclayo; Population: 517000
+City: Chifeng; Population: 350077
+City: Chifeng; Population: 350077
+City: Chihuahua; Population: 670208
+City: Chimalhuac�n; Population: 490245
+City: Chimbote; Population: 336000
+City: Chinju; Population: 329886
+City: Chisinau; Population: 719900
+City: Chittagong; Population: 1392860
+City: Chonan; Population: 330259
+City: Chongjin; Population: 582480
+City: Chongjin; Population: 582480
+City: Chongju; Population: 531376
+City: Chongqing; Population: 6351600
+City: Chonju; Population: 563153
+City: Christchurch; Population: 324200
+City: Chungho; Population: 392176
+City: Chungli; Population: 318649
+City: Cimahi; Population: 344600
+City: Cimahi; Population: 344600
+City: Cincinnati; Population: 331285
+City: Ciudad Bol�var; Population: 301107
+City: Ciudad Bol�var; Population: 301107
+City: Ciudad Guayana; Population: 663713
+City: Ciudad Guayana; Population: 663713
+City: Ciudad de Guatemala; Population: 823301
+City: Ciudad de Guatemala; Population: 823301
+City: Ciudad de Guatemala; Population: 823301
+City: Ciudad de M�xico; Population: 8591309
+City: Ciudad de M�xico; Population: 8591309
+City: Ciudad de M�xico; Population: 8591309
+City: Ciudad de M�xico; Population: 8591309
+City: Ciudad de Panam�; Population: 471373
+City: Ciudad de Panam�; Population: 471373
+City: Ciudad de Panam�; Population: 471373
+City: Cleveland; Population: 478403
+City: Cluj-Napoca; Population: 332498
+City: Cochabamba; Population: 482800
+City: Cochin (Kochi); Population: 564589
+City: Cochin (Kochi); Population: 564589
+City: Coimbatore; Population: 816321
+City: Coimbatore; Population: 816321
+City: Colombo; Population: 645000
+City: Colorado Springs; Population: 360890
+City: Colorado Springs; Population: 360890
+City: Columbus; Population: 711470
+City: Conakry; Population: 1090610
+City: Constanta; Population: 342264
+City: Constantine; Population: 443727
+City: Contagem; Population: 520801
+City: Contagem; Population: 520801
+City: Cotonou; Population: 536827
+City: Coventry; Population: 304000
+City: Craiova; Population: 313530
+City: Cuautitl�n Izcalli; Population: 452976
+City: Cuautitl�n Izcalli; Population: 452976
+City: Cuernavaca; Population: 337966
+City: Cuiab�; Population: 453813
+City: Cuiab�; Population: 453813
+City: Culiac�n; Population: 744859
+City: Curitiba; Population: 1584232
+City: C�cuta; Population: 606932
+City: C�cuta; Population: 606932
+City: C�cuta; Population: 606932
+City: C�rdoba; Population: 311708
+City: C�rdoba; Population: 1157507
+City: Da Nang; Population: 382674
+City: Da Nang; Population: 382674
+City: Da Nang; Population: 382674
+City: Da Nang; Population: 382674
+City: Dakar; Population: 785071
+City: Dalian; Population: 2697000
+City: Dallas; Population: 1188580
+City: Damascus; Population: 1347000
+City: Dandong; Population: 520000
+City: Daqing; Population: 660000
+City: Dar es Salaam; Population: 1747000
+City: Dar es Salaam; Population: 1747000
+City: Dar es Salaam; Population: 1747000
+City: Dar es Salaam; Population: 1747000
+City: Dar es Salaam; Population: 1747000
+City: Dasmari�as; Population: 379520
+City: Dasmari�as; Population: 379520
+City: Datong; Population: 800000
+City: Davao; Population: 1147116
+City: Davao; Population: 1147116
+City: Delhi; Population: 7206704
+City: Denpasar; Population: 435000
+City: Denver; Population: 554636
+City: Depok; Population: 365200
+City: Depok; Population: 365200
+City: Detroit; Population: 951270
+City: Dhaka; Population: 3612850
+City: Diadema; Population: 335078
+City: Diadema; Population: 335078
+City: Diyarbakir; Population: 479884
+City: Djibouti; Population: 383000
+City: Dnipropetrovsk; Population: 1103000
+City: Doha; Population: 355000
+City: Donetsk; Population: 1050000
+City: Dongwan; Population: 308669
+City: Dortmund; Population: 590213
+City: Douala; Population: 1448300
+City: Dresden; Population: 476668
+City: Dubai; Population: 669181
+City: Dublin; Population: 481854
+City: Duisburg; Population: 519793
+City: Duque de Caxias; Population: 746758
+City: Duque de Caxias; Population: 746758
+City: Duque de Caxias; Population: 746758
+City: Duque de Caxias; Population: 746758
+City: Duque de Caxias; Population: 746758
+City: Durango; Population: 490524
+City: Durban; Population: 566120
+City: Durgapur; Population: 425836
+City: Durgapur; Population: 425836
+City: Dushanbe; Population: 524000
+City: D�sseldorf; Population: 568855
+City: Ecatepec de Morelos; Population: 1620303
+City: Ecatepec de Morelos; Population: 1620303
+City: Ecatepec de Morelos; Population: 1620303
+City: Ede; Population: 307100
+City: Ede; Population: 307100
+City: Ede; Population: 307100
+City: Edinburgh; Population: 450180
+City: Edmonton; Population: 616306
+City: El Alto; Population: 534466
+City: El Alto; Population: 534466
+City: El Alto; Population: 534466
+City: El Paso; Population: 563662
+City: El Paso; Population: 563662
+City: Ensenada; Population: 369573
+City: Ensenada; Population: 369573
+City: Enugu; Population: 316100
+City: Enugu; Population: 316100
+City: Enugu; Population: 316100
+City: Enugu; Population: 316100
+City: Enugu; Population: 316100
+City: Esfahan; Population: 1266072
+City: Eskisehir; Population: 470781
+City: Essen; Population: 599515
+City: Etobicoke; Population: 348845
+City: Faisalabad; Population: 1977246
+City: Faridabad; Population: 703592
+City: Feira de Santana; Population: 479992
+City: Feira de Santana; Population: 479992
+City: Feira de Santana; Population: 479992
+City: Fengshan; Population: 318562
+City: Firenze; Population: 376662
+City: Florencio Varela; Population: 315432
+City: Florencio Varela; Population: 315432
+City: Florencio Varela; Population: 315432
+City: Fort Worth; Population: 534694
+City: Fort Worth; Population: 534694
+City: Fortaleza; Population: 2097757
+City: Foshan; Population: 303160
+City: Frankfurt am Main; Population: 643821
+City: Frankfurt am Main; Population: 643821
+City: Frankfurt am Main; Population: 643821
+City: Freetown; Population: 850000
+City: Fresno; Population: 427652
+City: Fujisawa; Population: 372840
+City: Fukuoka; Population: 1308379
+City: Fukuyama; Population: 376921
+City: Funabashi; Population: 545299
+City: Fushun; Population: 1200000
+City: Fuxin; Population: 640000
+City: Fuzhou; Population: 1593800
+City: F�s; Population: 541162
+City: Galati; Population: 330276
+City: Gaza; Population: 353632
+City: Gaziantep; Population: 789056
+City: Gdansk; Population: 458988
+City: General San Mart�n; Population: 422542
+City: General San Mart�n; Population: 422542
+City: General San Mart�n; Population: 422542
+City: General San Mart�n; Population: 422542
+City: General Santos; Population: 411822
+City: General Santos; Population: 411822
+City: General Santos; Population: 411822
+City: Genova; Population: 636104
+City: Ghaziabad; Population: 454156
+City: Ghaziabad; Population: 454156
+City: Gifu; Population: 408007
+City: Giza; Population: 2221868
+City: Glasgow; Population: 619680
+City: Goi�nia; Population: 1056330
+City: Gold Coast; Population: 311932
+City: Gold Coast; Population: 311932
+City: Gomel; Population: 475000
+City: Gorakhpur; Population: 505566
+City: Gorakhpur; Population: 505566
+City: Gothenburg [G�teborg]; Population: 466990
+City: Gothenburg [G�teborg]; Population: 466990
+City: Gothenburg [G�teborg]; Population: 466990
+City: Gothenburg [G�teborg]; Population: 466990
+City: Grodno; Population: 302000
+City: Guadalajara; Population: 1647720
+City: Guadalupe; Population: 668780
+City: Guadalupe; Population: 668780
+City: Guarulhos; Population: 1095874
+City: Guarulhos; Population: 1095874
+City: Guayaquil; Population: 2070040
+City: Guilin; Population: 364130
+City: Guiyang; Population: 1465200
+City: Gujranwala; Population: 1124749
+City: Gulbarga; Population: 304099
+City: Guntur; Population: 471051
+City: Guntur; Population: 471051
+City: Guwahati (Gauhati); Population: 584342
+City: Guwahati (Gauhati); Population: 584342
+City: Gwalior; Population: 690765
+City: Gwalior; Population: 690765
+City: Haag; Population: 440900
+City: Habarovsk; Population: 609400
+City: Hachioji; Population: 513451
+City: Haikou; Population: 454300
+City: Haiphong; Population: 783133
+City: Hama; Population: 343361
+City: Hamadan; Population: 401281
+City: Hamamatsu; Population: 568796
+City: Hamburg; Population: 1704735
+City: Hamhung; Population: 709730
+City: Hamhung; Population: 709730
+City: Hamilton; Population: 335614
+City: Handan; Population: 840000
+City: Hangzhou; Population: 2190500
+City: Hannover; Population: 514718
+City: Hanoi; Population: 1410000
+City: Haora (Howrah); Population: 950435
+City: Haora (Howrah); Population: 950435
+City: Haora (Howrah); Population: 950435
+City: Harare; Population: 1410000
+City: Harbin; Population: 4289800
+City: Harkova [Harkiv]; Population: 1500000
+City: Harkova [Harkiv]; Population: 1500000
+City: Hefei; Population: 1369100
+City: Hegang; Population: 520000
+City: Helsinki [Helsingfors]; Population: 555474
+City: Helsinki [Helsingfors]; Population: 555474
+City: Hengyang; Population: 487148
+City: Hermosillo; Population: 608697
+City: Herson; Population: 353000
+City: Higashiosaka; Population: 517785
+City: Himeji; Population: 475167
+City: Hims; Population: 507404
+City: Hirakata; Population: 403151
+City: Hiroshima; Population: 1119117
+City: Ho Chi Minh City; Population: 3980000
+City: Ho Chi Minh City; Population: 3980000
+City: Ho Chi Minh City; Population: 3980000
+City: Ho Chi Minh City; Population: 3980000
+City: Ho Chi Minh City; Population: 3980000
+City: Ho Chi Minh City; Population: 3980000
+City: Ho Chi Minh City; Population: 3980000
+City: Hohhot; Population: 916700
+City: Hohhot; Population: 916700
+City: Honolulu; Population: 371657
+City: Houston; Population: 1953631
+City: Hsinchu; Population: 361958
+City: Hsinchuang; Population: 365048
+City: Huaibei; Population: 366549
+City: Huainan; Population: 700000
+City: Huancayo; Population: 327000
+City: Huangshi; Population: 457601
+City: Hubli-Dharwad; Population: 648298
+City: Hunjiang; Population: 482043
+City: Hyderabad; Population: 2964638
+City: Hyderabad; Population: 2964638
+City: Hyderabad; Population: 1151274
+City: Iasi; Population: 348070
+City: Ibadan; Population: 1432000
+City: Ibadan; Population: 1432000
+City: Ibadan; Population: 1432000
+City: Ibagu�; Population: 393664
+City: Ichikawa; Population: 441893
+City: Iksan; Population: 322685
+City: Ilesha; Population: 378400
+City: Ilesha; Population: 378400
+City: Ilesha; Population: 378400
+City: Iloilo; Population: 365820
+City: Iloilo; Population: 365820
+City: Ilorin; Population: 475800
+City: Ilorin; Population: 475800
+City: Ilorin; Population: 475800
+City: Inanda; Population: 634065
+City: Inchon; Population: 2559424
+City: Indianapolis; Population: 791926
+City: Indore; Population: 1091674
+City: Indore; Population: 1091674
+City: Ipoh; Population: 382853
+City: Iquitos; Population: 367000
+City: Irapuato; Population: 440039
+City: Irbil; Population: 485968
+City: Irkutsk; Population: 593700
+City: Islamabad; Population: 524500
+City: Istanbul; Population: 8787958
+City: Ivanovo; Population: 459200
+City: Iwaki; Population: 361737
+City: Iwo; Population: 362000
+City: Iwo; Population: 362000
+City: Iwo; Population: 362000
+City: Izevsk; Population: 652800
+City: Izmir; Population: 2130359
+City: Jabalpur; Population: 741927
+City: Jabalpur; Population: 741927
+City: Jaboat�o dos Guararapes; Population: 558680
+City: Jaboat�o dos Guararapes; Population: 558680
+City: Jaboat�o dos Guararapes; Population: 558680
+City: Jacksonville; Population: 735167
+City: Jaipur; Population: 1458483
+City: Jakarta; Population: 9604900
+City: Jakarta; Population: 9604900
+City: Jalandhar (Jullundur); Population: 509510
+City: Jalandhar (Jullundur); Population: 509510
+City: Jambi; Population: 385201
+City: Jamnagar; Population: 341637
+City: Jamshedpur; Population: 460577
+City: Jaroslavl; Population: 616700
+City: Jedda; Population: 2046300
+City: Jekaterinburg; Population: 1266300
+City: Jerusalem; Population: 633700
+City: Jhansi; Population: 300850
+City: Jhansi; Population: 300850
+City: Jiamusi; Population: 493409
+City: Jiaozuo; Population: 409100
+City: Jilin; Population: 1040000
+City: Jinan; Population: 2278100
+City: Jinxi; Population: 357052
+City: Jinzhou; Population: 570000
+City: Jixi; Population: 683885
+City: Jodhpur; Population: 666279
+City: Johannesburg; Population: 756653
+City: Johor Baharu; Population: 328436
+City: Johor Baharu; Population: 328436
+City: Joinville; Population: 428011
+City: Joinville; Population: 428011
+City: Jokohama [Yokohama]; Population: 3339594
+City: Jokohama [Yokohama]; Population: 3339594
+City: Jo�o Pessoa; Population: 584029
+City: Jo�o Pessoa; Population: 584029
+City: Juiz de Fora; Population: 450288
+City: Juiz de Fora; Population: 450288
+City: Juiz de Fora; Population: 450288
+City: Juiz de Fora; Population: 450288
+City: Ju�rez; Population: 1217818
+City: Kabul; Population: 1780000
+City: Kaduna; Population: 342200
+City: Kagoshima; Population: 549977
+City: Kaifeng; Population: 510000
+City: Kaliningrad; Population: 424400
+City: Kalookan; Population: 1177604
+City: Kalookan; Population: 1177604
+City: Kalookan; Population: 1177604
+City: Kaluga; Population: 339300
+City: Kalyan; Population: 1014557
+City: Kampala; Population: 890800
+City: Kananga; Population: 393030
+City: Kananga; Population: 393030
+City: Kanazawa; Population: 455386
+City: Kano; Population: 674100
+City: Kano; Population: 674100
+City: Kano; Population: 674100
+City: Kanpur; Population: 1874409
+City: Kanpur; Population: 1874409
+City: Kansas City; Population: 441545
+City: Kansas City; Population: 441545
+City: Kanton [Guangzhou]; Population: 4256300
+City: Kanton [Guangzhou]; Population: 4256300
+City: Kaohsiung; Population: 1475505
+City: Karachi; Population: 9269265
+City: Karaj; Population: 940968
+City: Kashiwa; Population: 320296
+City: Kataka (Cuttack); Population: 403418
+City: Kataka (Cuttack); Population: 403418
+City: Kathmandu; Population: 591835
+City: Katowice; Population: 345934
+City: Kaunas; Population: 412639
+City: Kawagoe; Population: 327211
+City: Kawaguchi; Population: 452155
+City: Kawasaki; Population: 1217359
+City: Kayseri; Population: 475657
+City: Kazan; Population: 1101000
+City: Keelung (Chilung); Population: 385201
+City: Keelung (Chilung); Population: 385201
+City: Kemerovo; Population: 492700
+City: Kempton Park; Population: 442633
+City: Kempton Park; Population: 442633
+City: Kerman; Population: 384991
+City: Kermanshah; Population: 692986
+City: Khartum; Population: 947483
+City: Khulna; Population: 663340
+City: Kinshasa; Population: 5064000
+City: Kioto; Population: 1461974
+City: Kirkuk; Population: 418624
+City: Kirov; Population: 466200
+City: Kisangani; Population: 417517
+City: Kitakyushu; Population: 1016264
+City: Kobe; Population: 1425139
+City: Kochi; Population: 324710
+City: Kolhapur; Population: 406370
+City: Kolwezi; Population: 417810
+City: Konya; Population: 628364
+City: Koriyama; Population: 330335
+City: Koshigaya; Population: 301446
+City: Kota; Population: 537371
+City: Kowloon and New Kowloon; Population: 1987996
+City: Kowloon and New Kowloon; Population: 1987996
+City: Kowloon and New Kowloon; Population: 1987996
+City: Kowloon and New Kowloon; Population: 1987996
+City: Kowloon and New Kowloon; Population: 1987996
+City: Kowloon and New Kowloon; Population: 1987996
+City: Kowloon and New Kowloon; Population: 1987996
+City: Koyang; Population: 518282
+City: Krak�w; Population: 738150
+City: Krasnodar; Population: 639000
+City: Krasnojarsk; Population: 875500
+City: Kryvyi Rig; Population: 703000
+City: Kryvyi Rig; Population: 703000
+City: Kuala Lumpur; Population: 1297526
+City: Kuala Lumpur; Population: 1297526
+City: Kuala Lumpur; Population: 1297526
+City: Kumamoto; Population: 656734
+City: Kumasi; Population: 385192
+City: Kumi; Population: 311431
+City: Kunming; Population: 1829500
+City: Kurashiki; Population: 425103
+City: Kurgan; Population: 364700
+City: Kursk; Population: 443500
+City: Kwangju; Population: 1368341
+City: Kwangmyong; Population: 350914
+City: Kyiv; Population: 2624000
+City: K�benhavn; Population: 495699
+City: K�ln; Population: 962507
+City: La Habana; Population: 2256000
+City: La Habana; Population: 2256000
+City: La Habana; Population: 2256000
+City: La Matanza; Population: 1266461
+City: La Matanza; Population: 1266461
+City: La Matanza; Population: 1266461
+City: La Paz; Population: 758141
+City: La Paz; Population: 758141
+City: La Paz; Population: 758141
+City: La Plata; Population: 521936
+City: La Plata; Population: 521936
+City: La Plata; Population: 521936
+City: Lagos; Population: 1518000
+City: Lahore; Population: 5063499
+City: Lanzhou; Population: 1565800
+City: Lan�s; Population: 469735
+City: Lan�s; Population: 469735
+City: Las Palmas de Gran Canaria; Population: 354757
+City: Las Palmas de Gran Canaria; Population: 354757
+City: Las Palmas de Gran Canaria; Population: 354757
+City: Las Palmas de Gran Canaria; Population: 354757
+City: Las Palmas de Gran Canaria; Population: 354757
+City: Las Palmas de Gran Canaria; Population: 354757
+City: Las Pi�as; Population: 472780
+City: Las Pi�as; Population: 472780
+City: Las Pi�as; Population: 472780
+City: Las Pi�as; Population: 472780
+City: Las Vegas; Population: 478434
+City: Las Vegas; Population: 478434
+City: Laval; Population: 330393
+City: Leeds; Population: 424194
+City: Leipzig; Population: 489532
+City: Leshan; Population: 341128
+City: Le�n; Population: 1133576
+City: Lianyungang; Population: 354139
+City: Liaoyang; Population: 492559
+City: Liaoyuan; Population: 354141
+City: Libreville; Population: 419000
+City: Lilongwe; Population: 435964
+City: Lima; Population: 6464693
+City: Linyi; Population: 324720
+City: Lipetsk; Population: 521000
+City: Lisboa; Population: 563210
+City: Liupanshui; Population: 363954
+City: Liuzhou; Population: 610000
+City: Liverpool; Population: 461000
+City: Lomas de Zamora; Population: 622013
+City: Lomas de Zamora; Population: 622013
+City: Lomas de Zamora; Population: 622013
+City: Lomas de Zamora; Population: 622013
+City: Lom�; Population: 375000
+City: London; Population: 339917
+City: London; Population: 7285000
+City: Londrina; Population: 432257
+City: Long Beach; Population: 461522
+City: Long Beach; Population: 461522
+City: Los Angeles; Population: 3694820
+City: Los Angeles; Population: 3694820
+City: Luanda; Population: 2022000
+City: Lublin; Population: 356251
+City: Lubumbashi; Population: 851381
+City: Lucknow; Population: 1619115
+City: Lucknow; Population: 1619115
+City: Ludhiana; Population: 1042740
+City: Lugansk; Population: 469000
+City: Luoyang; Population: 760000
+City: Lusaka; Population: 1317000
+City: Luxor; Population: 360503
+City: Lviv; Population: 788000
+City: Lyon; Population: 445452
+City: L�dz; Population: 800110
+City: Macao; Population: 437500
+City: Macei�; Population: 786288
+City: Machida; Population: 364197
+City: Madrid; Population: 2879052
+City: Madurai; Population: 977856
+City: Madurai; Population: 977856
+City: Magnitogorsk; Population: 427900
+City: Mahat�kala; Population: 332800
+City: Maiduguri; Population: 320000
+City: Maiduguri; Population: 320000
+City: Maiduguri; Population: 320000
+City: Makati; Population: 444867
+City: Makati; Population: 444867
+City: Makati; Population: 444867
+City: Makijivka; Population: 384000
+City: Malabon; Population: 338855
+City: Malabon; Population: 338855
+City: Malabon; Population: 338855
+City: Malang; Population: 716862
+City: Malang; Population: 716862
+City: Malatya; Population: 330312
+City: Malegaon; Population: 342595
+City: Manado; Population: 332288
+City: Manado; Population: 332288
+City: Managua; Population: 959000
+City: Manaus; Population: 1255049
+City: Manchester; Population: 430000
+City: Mandalay; Population: 885300
+City: Manila; Population: 1581082
+City: Manila; Population: 1581082
+City: Manila; Population: 1581082
+City: Manizales; Population: 337580
+City: Mannheim; Population: 307730
+City: Maputo; Population: 1018938
+City: Mar del Plata; Population: 512880
+City: Mar del Plata; Population: 512880
+City: Mar del Plata; Population: 512880
+City: Mar del Plata; Population: 512880
+City: Maracay; Population: 444443
+City: Maraca�bo; Population: 1304776
+City: Marikina; Population: 391170
+City: Marikina; Population: 391170
+City: Marikina; Population: 391170
+City: Mariupol; Population: 490000
+City: Marrakech; Population: 621914
+City: Marseille; Population: 798430
+City: Masan; Population: 441242
+City: Mashhad; Population: 1887405
+City: Matamoros; Population: 416428
+City: Mataram; Population: 306600
+City: Mataram; Population: 306600
+City: Mataram; Population: 306600
+City: Matola; Population: 424662
+City: Matsudo; Population: 461126
+City: Matsuyama; Population: 466133
+City: Matur�n; Population: 319726
+City: Mau�; Population: 375055
+City: Mau�; Population: 375055
+City: Mazatl�n; Population: 380265
+City: Ma�anshan; Population: 305421
+City: Mbuji-Mayi; Population: 806475
+City: Mbuji-Mayi; Population: 806475
+City: Medan; Population: 1843919
+City: Medan; Population: 1843919
+City: Medell�n; Population: 1861265
+City: Medina; Population: 608300
+City: Meerut; Population: 753778
+City: Meerut; Population: 753778
+City: Mekka; Population: 965700
+City: Mekn�s; Population: 460000
+City: Melbourne; Population: 2865329
+City: Memphis; Population: 650100
+City: Merlo; Population: 463846
+City: Merlo; Population: 463846
+City: Mersin (I�el); Population: 587212
+City: Mersin (I�el); Population: 587212
+City: Mesa; Population: 396375
+City: Mexicali; Population: 764902
+City: Mexicali; Population: 764902
+City: Miami; Population: 362470
+City: Milano; Population: 1300977
+City: Milwaukee; Population: 596974
+City: Minneapolis; Population: 382618
+City: Minsk; Population: 1674000
+City: Minsk; Population: 1674000
+City: Mississauga; Population: 608072
+City: Miyazaki; Population: 303784
+City: Mogadishu; Population: 997000
+City: Mogiljov; Population: 356000
+City: Moji das Cruzes; Population: 339194
+City: Moji das Cruzes; Population: 339194
+City: Moji das Cruzes; Population: 339194
+City: Moji das Cruzes; Population: 339194
+City: Mombasa; Population: 461753
+City: Monrovia; Population: 850000
+City: Monterrey; Population: 1108499
+City: Monterrey; Population: 1108499
+City: Montevideo; Population: 1236000
+City: Montr�al; Population: 1016376
+City: Moradabad; Population: 429214
+City: Moradabad; Population: 429214
+City: Morelia; Population: 619958
+City: Morelia; Population: 619958
+City: Morelia; Population: 619958
+City: Moreno; Population: 356993
+City: Moreno; Population: 356993
+City: Mor�n; Population: 349246
+City: Mor�n; Population: 349246
+City: Moscow; Population: 8389200
+City: Moscow; Population: 8389200
+City: Mosul; Population: 879000
+City: Moulmein (Mawlamyine); Population: 307900
+City: Moulmein (Mawlamyine); Population: 307900
+City: Mudanjiang; Population: 570000
+City: Multan; Population: 1182441
+City: Mumbai (Bombay); Population: 10500000
+City: Mumbai (Bombay); Population: 10500000
+City: Munich [M�nchen]; Population: 1194560
+City: Munich [M�nchen]; Population: 1194560
+City: Muntinlupa; Population: 379310
+City: Muntinlupa; Population: 379310
+City: Muntinlupa; Population: 379310
+City: Murcia; Population: 353504
+City: Murmansk; Population: 376300
+City: Mushin; Population: 333200
+City: Mykolajiv; Population: 508000
+City: Mysore; Population: 480692
+City: M�laga; Population: 530553
+City: M�rida; Population: 703324
+City: Nabereznyje T�elny; Population: 514700
+City: Nabereznyje T�elny; Population: 514700
+City: Nagano; Population: 361391
+City: Nagasaki; Population: 432759
+City: Nagoya; Population: 2154376
+City: Nagpur; Population: 1624752
+City: Nairobi; Population: 2290000
+City: Namangan; Population: 370500
+City: Nampo; Population: 566200
+City: Nampula; Population: 303346
+City: Nanchang; Population: 1691600
+City: Nanking [Nanjing]; Population: 2870300
+City: Nanking [Nanjing]; Population: 2870300
+City: Nanning; Population: 1161800
+City: Nantong; Population: 343341
+City: Napoli; Population: 1002619
+City: Nara; Population: 362812
+City: Nashik (Nasik); Population: 656925
+City: Nashik (Nasik); Population: 656925
+City: Nashville-Davidson; Population: 569891
+City: Natal; Population: 688955
+City: Natal; Population: 688955
+City: Natal; Population: 688955
+City: Natal; Population: 688955
+City: Naucalpan de Ju�rez; Population: 857511
+City: Naucalpan de Ju�rez; Population: 857511
+City: Naucalpan de Ju�rez; Population: 857511
+City: Ndola; Population: 329200
+City: Neiva; Population: 300052
+City: Nellore; Population: 316606
+City: Nellore; Population: 316606
+City: New Bombay; Population: 307297
+City: New Bombay; Population: 307297
+City: New Delhi; Population: 301297
+City: New Delhi; Population: 301297
+City: New Orleans; Population: 484674
+City: New Orleans; Population: 484674
+City: New York; Population: 8008278
+City: New York; Population: 8008278
+City: New York; Population: 8008278
+City: Nezahualc�yotl; Population: 1224924
+City: Niamey; Population: 420000
+City: Nice; Population: 342738
+City: Niigata; Population: 497464
+City: Ningbo; Population: 1371200
+City: Nishinomiya; Population: 397618
+City: Niter�i; Population: 459884
+City: Niter�i; Population: 459884
+City: Niter�i; Population: 459884
+City: Nizni Novgorod; Population: 1357000
+City: Nizni Novgorod; Population: 1357000
+City: Nizni Novgorod; Population: 1357000
+City: Nizni Tagil; Population: 390900
+City: Nizni Tagil; Population: 390900
+City: North York; Population: 622632
+City: North York; Population: 622632
+City: Nouakchott; Population: 667300
+City: Nova Igua�u; Population: 862225
+City: Nova Igua�u; Population: 862225
+City: Nova Igua�u; Population: 862225
+City: Nova Igua�u; Population: 862225
+City: Novokuznetsk; Population: 561600
+City: Novosibirsk; Population: 1398800
+City: Nuevo Laredo; Population: 310277
+City: Nuevo Laredo; Population: 310277
+City: N�Djam�na; Population: 530965
+City: N�rnberg; Population: 486628
+City: Oakland; Population: 399484
+City: Odesa; Population: 1011000
+City: Ogbomosho; Population: 730000
+City: Ogbomosho; Population: 730000
+City: Ogbomosho; Population: 730000
+City: Oita; Population: 433401
+City: Okayama; Population: 624269
+City: Okazaki; Population: 328711
+City: Oklahoma City; Population: 506132
+City: Oklahoma City; Population: 506132
+City: Olinda; Population: 354732
+City: Omaha; Population: 390007
+City: Omdurman; Population: 1271403
+City: Omiya; Population: 441649
+City: Omsk; Population: 1148900
+City: Onitsha; Population: 371900
+City: Onitsha; Population: 371900
+City: Onitsha; Population: 371900
+City: Onitsha; Population: 371900
+City: Onitsha; Population: 371900
+City: Oran; Population: 609823
+City: Orenburg; Population: 523600
+City: Orjol; Population: 344500
+City: Osaka; Population: 2595674
+City: Osasco; Population: 659604
+City: Osasco; Population: 659604
+City: Oshogbo; Population: 476800
+City: Oshogbo; Population: 476800
+City: Oshogbo; Population: 476800
+City: Oslo; Population: 508726
+City: Ostrava; Population: 320041
+City: Ostrava; Population: 320041
+City: Ottawa; Population: 335277
+City: Ouagadougou; Population: 824000
+City: Oujda; Population: 365382
+City: Padang; Population: 534474
+City: Padang; Population: 534474
+City: Palembang; Population: 1222764
+City: Palembang; Population: 1222764
+City: Palermo; Population: 683794
+City: Palma de Mallorca; Population: 326993
+City: Palma de Mallorca; Population: 326993
+City: Palma de Mallorca; Population: 326993
+City: Panchiao; Population: 523850
+City: Panjin; Population: 362773
+City: Panzhihua; Population: 415466
+City: Para�aque; Population: 449811
+City: Para�aque; Population: 449811
+City: Para�aque; Population: 449811
+City: Paris; Population: 2125246
+City: Pasay; Population: 354908
+City: Pasay; Population: 354908
+City: Pasay; Population: 354908
+City: Pasig; Population: 505058
+City: Pasig; Population: 505058
+City: Pasig; Population: 505058
+City: Pasto; Population: 332396
+City: Patna; Population: 917243
+City: Pavlodar; Population: 300500
+City: Pekalongan; Population: 301504
+City: Pekalongan; Population: 301504
+City: Pekan Baru; Population: 438638
+City: Pekan Baru; Population: 438638
+City: Peking; Population: 7472000
+City: Pelotas; Population: 315415
+City: Pelotas; Population: 315415
+City: Pelotas; Population: 315415
+City: Pelotas; Population: 315415
+City: Penza; Population: 532200
+City: Pereira; Population: 381725
+City: Perm; Population: 1009700
+City: Perth; Population: 1096829
+City: Perth; Population: 1096829
+City: Peshawar; Population: 988005
+City: Peshawar; Population: 988005
+City: Peshawar; Population: 988005
+City: Petare; Population: 488868
+City: Philadelphia; Population: 1517550
+City: Phnom Penh; Population: 570155
+City: Phnom Penh; Population: 570155
+City: Phnom Penh; Population: 570155
+City: Phoenix; Population: 1321045
+City: Pietermaritzburg; Population: 370190
+City: Pikine; Population: 855287
+City: Pimpri-Chinchwad; Population: 517083
+City: Pinetown; Population: 378810
+City: Pingdingshan; Population: 410775
+City: Pingxiang; Population: 425579
+City: Piracicaba; Population: 319104
+City: Piracicaba; Population: 319104
+City: Pittsburgh; Population: 334563
+City: Piura; Population: 325000
+City: Plovdiv; Population: 342584
+City: Pohang; Population: 508899
+City: Pointe-Noire; Population: 500000
+City: Pontianak; Population: 409632
+City: Pontianak; Population: 409632
+City: Port Elizabeth; Population: 752319
+City: Port Elizabeth; Population: 752319
+City: Port Elizabeth; Population: 752319
+City: Port Harcourt; Population: 410000
+City: Port Harcourt; Population: 410000
+City: Port Harcourt; Population: 410000
+City: Port Harcourt; Population: 410000
+City: Port Said; Population: 469533
+City: Port Said; Population: 469533
+City: Port Said; Population: 469533
+City: Port Sudan; Population: 308195
+City: Port Sudan; Population: 308195
+City: Port Sudan; Population: 308195
+City: Port-au-Prince; Population: 884472
+City: Portland; Population: 529121
+City: Porto Alegre; Population: 1314032
+City: Porto Alegre; Population: 1314032
+City: Porto Alegre; Population: 1314032
+City: Porto Alegre; Population: 1314032
+City: Porto Alegre; Population: 1314032
+City: Porto Velho; Population: 309750
+City: Porto Velho; Population: 309750
+City: Poznan; Population: 576899
+City: Praha; Population: 1181126
+City: Praha; Population: 1181126
+City: Praha; Population: 1181126
+City: Pretoria; Population: 658630
+City: Puchon; Population: 779412
+City: Puebla; Population: 1346176
+City: Puente Alto; Population: 386236
+City: Puente Alto; Population: 386236
+City: Pultava [Poltava]; Population: 313000
+City: Pultava [Poltava]; Population: 313000
+City: Pune; Population: 1566651
+City: Pusan; Population: 3804522
+City: Pyongtaek; Population: 312927
+City: Pyongyang; Population: 2484000
+City: Qaraghandy; Population: 436900
+City: Qingdao; Population: 2596000
+City: Qinhuangdao; Population: 364972
+City: Qiqihar; Population: 1070000
+City: Qom; Population: 777677
+City: Quer�taro; Population: 639839
+City: Quer�taro; Population: 639839
+City: Quer�taro; Population: 639839
+City: Quetta; Population: 560307
+City: Quezon; Population: 2173831
+City: Quezon; Population: 2173831
+City: Quezon; Population: 2173831
+City: Quilmes; Population: 559249
+City: Quilmes; Population: 559249
+City: Quito; Population: 1573458
+City: Rabat; Population: 623457
+City: Raipur; Population: 438639
+City: Rajahmundry; Population: 324851
+City: Rajahmundry; Population: 324851
+City: Rajkot; Population: 559407
+City: Ranchi; Population: 599306
+City: Randburg; Population: 341288
+City: Rangoon (Yangon); Population: 3361700
+City: Rangoon (Yangon); Population: 3361700
+City: Rangoon (Yangon); Population: 3361700
+City: Rasht; Population: 417748
+City: Rawalpindi; Population: 1406214
+City: Recife; Population: 1378087
+City: Reynosa; Population: 419776
+City: Ribeir�o Preto; Population: 473276
+City: Ribeir�o Preto; Population: 473276
+City: Ribeir�o Preto; Population: 473276
+City: Riga; Population: 764328
+City: Rio de Janeiro; Population: 5598953
+City: Rio de Janeiro; Population: 5598953
+City: Rio de Janeiro; Population: 5598953
+City: Rio de Janeiro; Population: 5598953
+City: Rio de Janeiro; Population: 5598953
+City: Riyadh; Population: 3324000
+City: Rjazan; Population: 529900
+City: Roma; Population: 2643581
+City: Rosario; Population: 907718
+City: Rosario; Population: 907718
+City: Rostov-na-Donu; Population: 1012700
+City: Rotterdam; Population: 593321
+City: Sacramento; Population: 407018
+City: Sagamihara; Population: 586300
+City: Saharanpur; Population: 374945
+City: Saharanpur; Population: 374945
+City: Saint Louis; Population: 348189
+City: Saint Louis; Population: 348189
+City: Sakai; Population: 797735
+City: Salem; Population: 366712
+City: Salem; Population: 366712
+City: Salta; Population: 367550
+City: Saltillo; Population: 577352
+City: Saltillo; Population: 577352
+City: Saltillo; Population: 577352
+City: Salvador; Population: 2302832
+City: Sal�; Population: 504420
+City: Samara; Population: 1156100
+City: Samarinda; Population: 399175
+City: Samarinda; Population: 399175
+City: Samarkand; Population: 361800
+City: Samsun; Population: 339871
+City: San Antonio; Population: 1144646
+City: San Antonio; Population: 1144646
+City: San Crist�bal; Population: 319373
+City: San Crist�bal; Population: 319373
+City: San Diego; Population: 1223400
+City: San Diego; Population: 1223400
+City: San Francisco; Population: 776733
+City: San Francisco; Population: 776733
+City: San Isidro; Population: 306341
+City: San Isidro; Population: 306341
+City: San Isidro; Population: 306341
+City: San Jose; Population: 894943
+City: San Jose; Population: 894943
+City: San Jos�; Population: 339131
+City: San Jos�; Population: 339131
+City: San Jos�; Population: 339131
+City: San Jos� del Monte; Population: 315807
+City: San Jos� del Monte; Population: 315807
+City: San Jos� del Monte; Population: 315807
+City: San Jos� del Monte; Population: 315807
+City: San Jos� del Monte; Population: 315807
+City: San Juan; Population: 434374
+City: San Juan; Population: 434374
+City: San Juan; Population: 434374
+City: San Luis Potos�; Population: 669353
+City: San Luis Potos�; Population: 669353
+City: San Luis Potos�; Population: 669353
+City: San Luis Potos�; Population: 669353
+City: San Luis Potos�; Population: 669353
+City: San Miguel de Tucum�n; Population: 470809
+City: San Miguel de Tucum�n; Population: 470809
+City: San Miguel de Tucum�n; Population: 470809
+City: San Miguel de Tucum�n; Population: 470809
+City: San Miguelito; Population: 315382
+City: San Miguelito; Population: 315382
+City: San Miguelito; Population: 315382
+City: San Nicol�s de los Garza; Population: 495540
+City: San Nicol�s de los Garza; Population: 495540
+City: San Nicol�s de los Garza; Population: 495540
+City: San Nicol�s de los Garza; Population: 495540
+City: San Nicol�s de los Garza; Population: 495540
+City: San Nicol�s de los Garza; Population: 495540
+City: San Pedro Sula; Population: 383900
+City: San Pedro Sula; Population: 383900
+City: San Pedro Sula; Population: 383900
+City: San Salvador; Population: 415346
+City: San Salvador; Population: 415346
+City: San Salvador; Population: 415346
+City: Sanaa; Population: 503600
+City: Sanchung; Population: 380084
+City: Sanliurfa; Population: 405905
+City: Santa Ana; Population: 337977
+City: Santa Ana; Population: 337977
+City: Santa Cruz de la Sierra; Population: 935361
+City: Santa Cruz de la Sierra; Population: 935361
+City: Santa Cruz de la Sierra; Population: 935361
+City: Santa Cruz de la Sierra; Population: 935361
+City: Santa Cruz de la Sierra; Population: 935361
+City: Santa Cruz de la Sierra; Population: 935361
+City: Santa F�; Population: 353063
+City: Santa F�; Population: 353063
+City: Santa F�; Population: 353063
+City: Santa Marta; Population: 359147
+City: Santa Marta; Population: 359147
+City: Santaf� de Bogot�; Population: 6260862
+City: Santaf� de Bogot�; Population: 6260862
+City: Santaf� de Bogot�; Population: 6260862
+City: Santaf� de Bogot�; Population: 6260862
+City: Santaf� de Bogot�; Population: 6260862
+City: Santiago de Chile; Population: 4703954
+City: Santiago de Chile; Population: 4703954
+City: Santiago de Chile; Population: 4703954
+City: Santiago de Cuba; Population: 433180
+City: Santiago de Cuba; Population: 433180
+City: Santiago de Cuba; Population: 433180
+City: Santiago de Cuba; Population: 433180
+City: Santiago de Cuba; Population: 433180
+City: Santiago de los Caballeros; Population: 365463
+City: Santiago de los Caballeros; Population: 365463
+City: Santiago de los Caballeros; Population: 365463
+City: Santiago de los Caballeros; Population: 365463
+City: Santo Andr�; Population: 630073
+City: Santo Andr�; Population: 630073
+City: Santo Andr�; Population: 630073
+City: Santo Domingo de Guzm�n; Population: 1609966
+City: Santo Domingo de Guzm�n; Population: 1609966
+City: Santo Domingo de Guzm�n; Population: 1609966
+City: Santo Domingo de Guzm�n; Population: 1609966
+City: Santo Domingo de Guzm�n; Population: 1609966
+City: Santos; Population: 408748
+City: Santos; Population: 408748
+City: Sapporo; Population: 1790886
+City: Sarajevo; Population: 360000
+City: Saransk; Population: 314800
+City: Saratov; Population: 874000
+City: Sargodha; Population: 455360
+City: Scarborough; Population: 594501
+City: Seattle; Population: 563374
+City: Semarang; Population: 1104405
+City: Semarang; Population: 1104405
+City: Sendai; Population: 989975
+City: Seoul; Population: 9981619
+City: Serra; Population: 302666
+City: Serra; Population: 302666
+City: Sevastopol; Population: 348000
+City: Sevilla; Population: 701927
+City: Shambajinagar (Aurangabad); Population: 573272
+City: Shambajinagar (Aurangabad); Population: 573272
+City: Shanghai; Population: 9696300
+City: Shantou; Population: 580000
+City: Shaoguan; Population: 350043
+City: Sharja; Population: 320095
+City: Sharq al-Nil; Population: 700887
+City: Sharq al-Nil; Population: 700887
+City: Sheffield; Population: 431607
+City: Shenyang; Population: 4265200
+City: Shenzhen; Population: 950500
+City: Shijiazhuang; Population: 2041500
+City: Shiraz; Population: 1053025
+City: Shizuoka; Population: 473854
+City: Shuangyashan; Population: 386081
+City: Shubra al-Khayma; Population: 870716
+City: Shubra al-Khayma; Population: 870716
+City: Shymkent; Population: 360100
+City: Shymkent; Population: 360100
+City: Sialkot; Population: 417597
+City: Simferopol; Population: 339000
+City: Singapore; Population: 4017733
+City: Sinuiju; Population: 326011
+City: Sinuiju; Population: 326011
+City: Siping; Population: 317223
+City: Skopje; Population: 444299
+City: Smolensk; Population: 353400
+City: Sofija; Population: 1122302
+City: Sofija; Population: 1122302
+City: Solapur (Sholapur); Population: 604215
+City: Solapur (Sholapur); Population: 604215
+City: Songnam; Population: 869094
+City: Sorocaba; Population: 466823
+City: Sorocaba; Population: 466823
+City: Sot�i; Population: 358600
+City: Soweto; Population: 904165
+City: Srinagar; Population: 892506
+City: Srinagar; Population: 892506
+City: Srinagar; Population: 892506
+City: St Petersburg; Population: 4694000
+City: St Petersburg; Population: 4694000
+City: Stavropol; Population: 343300
+City: Stockholm; Population: 750348
+City: Stuttgart; Population: 582443
+City: Suez; Population: 417610
+City: Suita; Population: 345750
+City: Sukkur; Population: 329176
+City: Surabaya; Population: 2663820
+City: Surabaya; Population: 2663820
+City: Surakarta; Population: 518600
+City: Surakarta; Population: 518600
+City: Surat; Population: 1498817
+City: Surrey; Population: 304477
+City: Surrey; Population: 304477
+City: Suwon; Population: 755550
+City: Suzhou; Population: 710000
+City: Sydney; Population: 3276207
+City: Sydney; Population: 3276207
+City: Sydney; Population: 3276207
+City: Szczecin; Population: 416988
+City: S�o Bernardo do Campo; Population: 723132
+City: S�o Bernardo do Campo; Population: 723132
+City: S�o Bernardo do Campo; Population: 723132
+City: S�o Bernardo do Campo; Population: 723132
+City: S�o Bernardo do Campo; Population: 723132
+City: S�o Gon�alo; Population: 869254
+City: S�o Gon�alo; Population: 869254
+City: S�o Gon�alo; Population: 869254
+City: S�o Gon�alo; Population: 869254
+City: S�o Jos� do Rio Preto; Population: 351944
+City: S�o Jos� do Rio Preto; Population: 351944
+City: S�o Jos� do Rio Preto; Population: 351944
+City: S�o Jos� do Rio Preto; Population: 351944
+City: S�o Jos� do Rio Preto; Population: 351944
+City: S�o Jos� do Rio Preto; Population: 351944
+City: S�o Jos� dos Campos; Population: 515553
+City: S�o Jos� dos Campos; Population: 515553
+City: S�o Jos� dos Campos; Population: 515553
+City: S�o Jos� dos Campos; Population: 515553
+City: S�o Jos� dos Campos; Population: 515553
+City: S�o Jo�o de Meriti; Population: 440052
+City: S�o Jo�o de Meriti; Population: 440052
+City: S�o Jo�o de Meriti; Population: 440052
+City: S�o Jo�o de Meriti; Population: 440052
+City: S�o Jo�o de Meriti; Population: 440052
+City: S�o Jo�o de Meriti; Population: 440052
+City: S�o Lu�s; Population: 837588
+City: S�o Lu�s; Population: 837588
+City: S�o Paulo; Population: 9968485
+City: S�o Paulo; Population: 9968485
+City: S�o Paulo; Population: 9968485
+City: Tabriz; Population: 1191043
+City: Tabriz; Population: 1191043
+City: Taegu; Population: 2548568
+City: Taejon; Population: 1425835
+City: Taguig; Population: 467375
+City: Taguig; Population: 467375
+City: Taguig; Population: 467375
+City: Taichung; Population: 940589
+City: Tainan; Population: 728060
+City: Taipei; Population: 2641312
+City: Taiyuan; Population: 1968400
+City: Taizz; Population: 317600
+City: Tai�an; Population: 350696
+City: Takamatsu; Population: 332471
+City: Takatsuki; Population: 361747
+City: Tallinn; Population: 403981
+City: Tambov; Population: 312000
+City: Tampa; Population: 303447
+City: Tanger; Population: 521735
+City: Tangerang; Population: 1198300
+City: Tangerang; Population: 1198300
+City: Tangshan; Population: 1040000
+City: Tanta; Population: 371010
+City: Taoyuan; Population: 316438
+City: Taraz; Population: 330100
+City: Tbilisi; Population: 1235200
+City: Tegucigalpa; Population: 813900
+City: Tegucigalpa; Population: 813900
+City: Teheran; Population: 6758845
+City: Tel Aviv-Jaffa; Population: 348100
+City: Tel Aviv-Jaffa; Population: 348100
+City: Tel Aviv-Jaffa; Population: 348100
+City: Tengzhou; Population: 315083
+City: Tepic; Population: 305025
+City: Teresina; Population: 691942
+City: Thane (Thana); Population: 803389
+City: Thane (Thana); Population: 803389
+City: Thessaloniki; Population: 383967
+City: Thessaloniki; Population: 383967
+City: Thiruvananthapuram (Trivandrum; Population: 524006
+City: Thiruvananthapuram (Trivandrum; Population: 524006
+City: Tianjin; Population: 5286800
+City: Tijuana; Population: 1212232
+City: Tijuana; Population: 1212232
+City: Timisoara; Population: 324304
+City: Tiruchirapalli; Population: 387223
+City: Tiruchirapalli; Population: 387223
+City: Tjumen; Population: 503400
+City: Tlalnepantla de Baz; Population: 720755
+City: Tlalnepantla de Baz; Population: 720755
+City: Tlalnepantla de Baz; Population: 720755
+City: Tlaquepaque; Population: 475472
+City: Tokorozawa; Population: 325809
+City: Tokyo; Population: 7980230
+City: Toledo; Population: 313619
+City: Toljatti; Population: 722900
+City: Toluca; Population: 665617
+City: Tomsk; Population: 482100
+City: Tonal�; Population: 336109
+City: Tonghua; Population: 324600
+City: Torino; Population: 903705
+City: Toronto; Population: 688275
+City: Torre�n; Population: 529093
+City: Torre�n; Population: 529093
+City: Torre�n; Population: 529093
+City: Toskent; Population: 2117500
+City: Toskent; Population: 2117500
+City: Toulouse; Population: 390350
+City: Toyama; Population: 325790
+City: Toyohashi; Population: 360066
+City: Toyonaka; Population: 396689
+City: Toyota; Population: 346090
+City: Tres de Febrero; Population: 352311
+City: Tres de Febrero; Population: 352311
+City: Tres de Febrero; Population: 352311
+City: Tres de Febrero; Population: 352311
+City: Tripoli; Population: 1682000
+City: Trujillo; Population: 652000
+City: Trujillo; Population: 652000
+City: Tucson; Population: 486699
+City: Tula; Population: 506100
+City: Tulsa; Population: 393049
+City: Tultitl�n; Population: 432411
+City: Tunis; Population: 690600
+City: Tuxtla Guti�rrez; Population: 433544
+City: Tuxtla Guti�rrez; Population: 433544
+City: Tver; Population: 454900
+City: T�eboksary; Population: 459200
+City: T�eljabinsk; Population: 1083200
+City: T�erepovets; Population: 324400
+City: T�erkasy; Population: 309000
+City: T�ernigiv; Population: 313000
+City: T�ita; Population: 309900
+City: Uberl�ndia; Population: 487222
+City: Uberl�ndia; Population: 487222
+City: Udaipur; Population: 308571
+City: Ufa; Population: 1091200
+City: Ujjain; Population: 362266
+City: Ujjain; Population: 362266
+City: Ujung Pandang; Population: 1060257
+City: Ujung Pandang; Population: 1060257
+City: Ujung Pandang; Population: 1060257
+City: Ulan Bator; Population: 773700
+City: Ulan Bator; Population: 773700
+City: Ulan-Ude; Population: 370400
+City: Ulhasnagar; Population: 369077
+City: Uljanovsk; Population: 667400
+City: Ulsan; Population: 1084891
+City: Umlazi; Population: 339233
+City: Urawa; Population: 469675
+City: Urmia; Population: 435200
+City: Urmia; Population: 435200
+City: Urumt�i [�r�mqi]; Population: 1310100
+City: Urumt�i [�r�mqi]; Population: 1310100
+City: Utsunomiya; Population: 440353
+City: Vadodara (Baroda); Population: 1031346
+City: Vadodara (Baroda); Population: 1031346
+City: Valencia; Population: 794246
+City: Valencia; Population: 739412
+City: Valenzuela; Population: 485433
+City: Valenzuela; Population: 485433
+City: Valenzuela; Population: 485433
+City: Valladolid; Population: 319998
+City: Valladolid; Population: 319998
+City: Valladolid; Population: 319998
+City: Valle de Chalco Solidaridad; Population: 323113
+City: Valle de Chalco Solidaridad; Population: 323113
+City: Valle de Chalco Solidaridad; Population: 323113
+City: Valle de Chalco Solidaridad; Population: 323113
+City: Vancouver; Population: 514008
+City: Vancouver; Population: 514008
+City: Vanderbijlpark; Population: 468931
+City: Varanasi (Benares); Population: 929270
+City: Varanasi (Benares); Population: 929270
+City: Varanasi (Benares); Population: 929270
+City: Veracruz; Population: 457119
+City: Vereeniging; Population: 328535
+City: Victoria; Population: 1312637
+City: Vientiane; Population: 531800
+City: Vijayawada; Population: 701827
+City: Vijayawada; Population: 701827
+City: Vila Velha; Population: 318758
+City: Vila Velha; Population: 318758
+City: Vila Velha; Population: 318758
+City: Vilnius; Population: 577969
+City: Vinnytsja; Population: 391000
+City: Virginia Beach; Population: 425257
+City: Virginia Beach; Population: 425257
+City: Vishakhapatnam; Population: 752037
+City: Vishakhapatnam; Population: 752037
+City: Vitebsk; Population: 340000
+City: Vi�a del Mar; Population: 312493
+City: Vi�a del Mar; Population: 312493
+City: Vi�a del Mar; Population: 312493
+City: Vladikavkaz; Population: 310100
+City: Vladikavkaz; Population: 310100
+City: Vladimir; Population: 337100
+City: Vladivostok; Population: 606200
+City: Volgograd; Population: 993400
+City: Vologda; Population: 302500
+City: Voronez; Population: 907700
+City: Wakayama; Population: 391233
+City: Warangal; Population: 447657
+City: Warangal; Population: 447657
+City: Warszawa; Population: 1615369
+City: Washington; Population: 572059
+City: Washington; Population: 572059
+City: Washington; Population: 572059
+City: Weifang; Population: 428522
+City: Wenzhou; Population: 401871
+City: Wichita; Population: 344284
+City: Wien; Population: 1608144
+City: Winnipeg; Population: 618477
+City: Wonsan; Population: 300148
+City: Wroclaw; Population: 636765
+City: Wuhan; Population: 4344600
+City: Wuhu; Population: 425740
+City: Wuppertal; Population: 368993
+City: Wuxi; Population: 830000
+City: Xalapa; Population: 390058
+City: Xiangfan; Population: 410407
+City: Xiangtan; Population: 441968
+City: Xianyang; Population: 352125
+City: Xingtai; Population: 302789
+City: Xining; Population: 700200
+City: Xinxiang; Population: 473762
+City: Xi�an; Population: 2761400
+City: Xuzhou; Population: 810000
+City: Yakeshi; Population: 377869
+City: Yakeshi; Population: 377869
+City: Yangquan; Population: 362268
+City: Yangzhou; Population: 312892
+City: Yantai; Population: 452127
+City: Yaound�; Population: 1372800
+City: Yazd; Population: 326776
+City: Yerevan; Population: 1248700
+City: Yichang; Population: 371601
+City: Yichun; Population: 800000
+City: Yinchuan; Population: 544500
+City: Yingkou; Population: 421589
+City: Yogyakarta; Population: 418944
+City: Yokosuka; Population: 430200
+City: Yueyang; Population: 302800
+City: Zagreb; Population: 706770
+City: Zagreb; Population: 706770
+City: Zahedan; Population: 419518
+City: Zahedan; Population: 419518
+City: Zahedan; Population: 419518
+City: Zamboanga; Population: 601794
+City: Zamboanga; Population: 601794
+City: Zaozhuang; Population: 380846
+City: Zapopan; Population: 1002239
+City: Zaporizzja; Population: 848000
+City: Zaragoza; Population: 603367
+City: Zaria; Population: 379200
+City: Zhangjiakou; Population: 530000
+City: Zhangjiang; Population: 400997
+City: Zhengzhou; Population: 2107200
+City: Zhenjiang; Population: 368316
+City: Zhuzhou; Population: 409924
+City: Zibo; Population: 1140000
+City: Zigong; Population: 393184
+City: Z�rich; Population: 336800
+City: al-Dammam; Population: 482300
+City: al-Mahallat al-Kubra; Population: 395402
+City: al-Mahallat al-Kubra; Population: 395402
+City: al-Mansura; Population: 369621
+City: al-Najaf; Population: 309010
+City: al-Sulaymaniya; Population: 364096
+City: al-Taif; Population: 416100
+City: al-Zarqa; Population: 389815
+City: �skemen; Population: 311000
+City: �skemen; Population: 311000
